@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# Welcome to Cloud Haiku
 
-You can use the [editor on GitHub](https://github.com/do-community/haiku_cloud/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Haikus](https://ltagliaferri.github.io/site-test/haikus/)
 
-### Markdown
+All of our user-submitted **[haikus](https://ltagliaferri.github.io/site-test/haikus/)** are available via the [`/haikus`](https://github.com/ltagliaferri/site-test/tree/master/_haikus) directory.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contributing
 
-```markdown
-Syntax highlighted code block
+To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial "[How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)" and then compose a haiku in Markdown (`.md`).
 
-# Header 1
-## Header 2
-### Header 3
+You should name your Markdown file `your_haiku_title.md` and put it in the `/_haikus` directory of this project.
 
-- Bulleted
-- List
+Because this is a [Jekyll](https://jekyllrb.com/) site, you'll also need to include some boilerplate at the top of the file:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+---
+layout: haiku
+title:
+author:
+---
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
 
-### Jekyll Themes
+Under this heading, you'll put your haiku.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/do-community/haiku_cloud/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For example, Sammy the Shark's haiku is called "Octopus Cloud," and they wrote their name as just "Sammy." Sammy named their file `octopus_cloud.md`.
 
-### Support or Contact
+```
+---
+layout: haiku
+title: Octopus Cloud
+author: Sammy
+---
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Distributed cloud  
+Like the octopuses' minds  
+Across the network  
+```
+
+To ensure that there are proper line breaks, you will need to put two blank spaces after each line of your haiku. Alternately, you can use HTML line breaks, like so:
+
+```
+---
+layout: haiku
+title: Octopus Cloud
+author: Sammy
+---
+
+Distributed cloud<br>
+Like the octopuses' minds<br>
+Across the network<br>
+```
+
+Keep your haikus related to cloud infrastructure technology, and have fun contributing to this project!
+
+![Sammy the Shark and other fish swimming](https://ltagliaferri.github.io/site-test/assets/swim.png)
