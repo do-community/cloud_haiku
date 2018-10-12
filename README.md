@@ -2,9 +2,9 @@
 
 Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website.
 
-## [Haikus](https://do-community.github.io/haiku_cloud/haikus/)
+## [Haikus](https://do-community.github.io/cloud_haiku/haikus/)
 
-All of our user-submitted **[haikus](https://do-community.github.io/haiku_cloud/haikus/)** are available via the [`/haikus`](https://github.com/do-community/haikus/tree/master/_haikus) directory.
+All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/haikus/)** are available via the [`/haikus`](https://github.com/do-community/haikus/tree/master/_haikus) directory.
 
 ## Contributing
 
@@ -56,4 +56,4 @@ Across the network<br>
 
 Keep your haikus related to cloud infrastructure technology, and have fun contributing to this project!
 
-![Sammy the Shark and other fish swimming](https://do-community.github.io/site-test/assets/swim.png)
+![Sammy the Shark and other fish swimming](https://do-community.github.io/cloud_haiku/assets/swim.png)
