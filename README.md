@@ -4,13 +4,13 @@ Cloud Haiku is an open-source repository that collects haikus about the cloud an
 
 ## [Haikus](https://do-community.github.io/cloud_haiku/haikus/)
 
-All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/haikus/)** are available via the [`/haikus`](https://github.com/do-community/haikus/tree/master/_haikus) directory.
+All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/haikus/)** are available via the [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory.
 
 ## Contributing
 
 To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial "[How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)" and then compose a haiku in Markdown (`.md`).
 
-You should name your Markdown file `your_haiku_title.md` and put it in the `/_haikus` directory of this project.
+You should name your Markdown file `your_haiku_title.md` and put it in the [`/_haikus`]([`/haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory of this project.
 
 Because this is a [Jekyll](https://jekyllrb.com/) site, you'll also need to include some boilerplate at the top of the file:
 
@@ -26,7 +26,7 @@ Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Ne
 
 Under this heading, you'll put your haiku.
 
-For example, Sammy the Shark's haiku is called "Octopus Cloud," and they wrote their name as just "Sammy." Sammy named their file `octopus_cloud.md`.
+For example, Sammy the Shark's haiku is called "Octopus Cloud," and they wrote their name as just "Sammy." Sammy named their file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
 
 ```
 ---
