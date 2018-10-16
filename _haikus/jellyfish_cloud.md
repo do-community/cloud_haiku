@@ -4,6 +4,6 @@ title: Jellyfish Cloud
 author: Valerdi
 ---
 
-Multiple cloud <br>
-Like the different types of jellyfish<br>
-distributed in different places <br>
+Multiple cloud as<br>
+The different jellyfish<br>
+in the dark blue sea<br>
