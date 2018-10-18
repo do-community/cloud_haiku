@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Jellyfish Cloud
-author: Valerdi
+title: Doggos
+author: Rajvijay
 ---
 
-beauty in doggos<br>
-puppers,poofs<br>
-Good bois.<br>
+beauty of doggos
+puppers,and  pupperinos
+they mlem, blep, blop,bork.
