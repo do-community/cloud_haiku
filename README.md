@@ -10,7 +10,11 @@ All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/
 
 To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial "[How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)" and then compose a haiku in Markdown (`.md`).
 
+### Filename and Location
+
 You should name your Markdown file `your_haiku_title.md` and put it in the [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory of this project.
+
+### Jekyll Format
 
 Because this is a [Jekyll](https://jekyllrb.com/) site, you'll also need to include some boilerplate at the top of the file:
 
@@ -26,19 +30,35 @@ Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Ne
 
 Under this heading, you'll put your haiku.
 
-For example, Sammy the Shark's haiku is called "Octopus Cloud," and they wrote their name as just "Sammy." Sammy named their file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
+### Haiku Format
+
+Haikus are a traditional form of Japanese poetry. They are made up of three lines and have a total of 17 syllables. These poems follow the 5-7-5 format of syllables across the three lines.
+
+*Syllables* are a unit of organization for speech sounds that typically include a vowel. For example, the word **computer** is composed of three syllables: **com** - **put** - **er**.
+
+Let's look at an example haiku from this repository:
 
 ```
----
-layout: haiku
-title: Octopus Cloud
-author: Sammy
----
-
 Distributed cloud  
 Like the octopuses' minds  
 Across the network  
 ```
+
+Above, we see that the haiku is composed of 3 lines.
+
+The first line is 5 syllables long, the second line is 7 syllables long, and the third line is 5 syllables long.
+
+```python
+Dis-trib-ut-ed cloud #5 syllables  
+Like the oc-to-pus-es' minds #7 syllables  
+A-cross the net-work #5 syllables  
+```
+
+In order to verify that you're using the the right number of syllables, you can use a tool such as [http://www.haikusyllablecounter.com](http://www.haikusyllablecounter.com).
+
+Many forms of poetry have specific aesthetic rules to follow. This challenge makes writing poetry an enjoyable art form.
+
+### Line Breaks
 
 To ensure that there are proper line breaks, you will need to put two blank spaces after each line of your haiku. Alternately, you can use HTML line breaks, like so:
 
@@ -53,6 +73,26 @@ Distributed cloud<br>
 Like the octopuses' minds<br>
 Across the network<br>
 ```
+
+### An Example
+
+For example, Sammy the Shark's haiku is called "Octopus Cloud," and they wrote their name as just "Sammy." Sammy named their file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
+
+```
+---
+layout: haiku
+title: Octopus Cloud
+author: Sammy
+---
+
+Distributed cloud  
+Like the octopuses' minds  
+Across the network  
+```
+
+### Submit a Pull Request
+
+We're happy to merge valid pull requests to this repository! Any pull request that follows the formatting guidelines above will be brought into this project.
 
 Keep your haikus related to cloud infrastructure technology, and have fun contributing to this project!
 
