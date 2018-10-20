@@ -56,8 +56,8 @@ The first line is 5 syllables long, the second line is 7 syllables long, and the
 
 ```
 Dis-trib-ut-ed cloud  # 5 syllables  
-Like the oc-to-pus-es' minds  #7 syllables  
-A-cross the net-work  #5 syllables  
+Like the oc-to-pus-es' minds  # 7 syllables  
+A-cross the net-work  # 5 syllables  
 ```
 
 In order to verify that you're using the the right number of syllables, you can use a tool such as [http://www.haikusyllablecounter.com](http://www.haikusyllablecounter.com).
