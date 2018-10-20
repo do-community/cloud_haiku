@@ -30,6 +30,12 @@ Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Ne
 
 Under this heading, you'll put your haiku.
 
+### Writing a Haiku
+
+In the spirit of open source, we would like you to write an original haiku rather than submitting one that someone else has written.
+
+Your haiku does not need to be the best thing you have ever written, but it should fit into the poetic guidelines of what a haiku is, which you can read about in the next section.
+
 ### Haiku Format
 
 Haikus are a traditional form of Japanese poetry. They are made up of three lines and have a total of 17 syllables. These poems follow the 5-7-5 format of syllables across the three lines.
@@ -48,10 +54,10 @@ Above, we see that the haiku is composed of 3 lines.
 
 The first line is 5 syllables long, the second line is 7 syllables long, and the third line is 5 syllables long.
 
-```python
-Dis-trib-ut-ed cloud #5 syllables  
-Like the oc-to-pus-es' minds #7 syllables  
-A-cross the net-work #5 syllables  
+```
+Dis-trib-ut-ed cloud  # 5 syllables  
+Like the oc-to-pus-es' minds  #7 syllables  
+A-cross the net-work  #5 syllables  
 ```
 
 In order to verify that you're using the the right number of syllables, you can use a tool such as [http://www.haikusyllablecounter.com](http://www.haikusyllablecounter.com).
