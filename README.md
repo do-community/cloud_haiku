@@ -32,9 +32,9 @@ Under this heading, you'll put your haiku.
 
 ### Writing a Haiku
 
-In the spirit of open source, we would like you to write an original haiku rather than submitting one that someone else has written.
+In the spirit of open source, we would like you to write an original haiku rather than submit one that someone else has written.
 
-Your haiku does not need to be the best thing you have ever written, but it should fit into the poetic guidelines of what a haiku is, which you can read about in the next section.
+Your haiku should be fun and challenging to write. You must ensure that it fits into the poetic guidelines of what a haiku is, which you can read about in the next section.
 
 ### Haiku Format
 
