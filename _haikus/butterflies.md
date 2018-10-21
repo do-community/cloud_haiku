@@ -1,10 +1,11 @@
 ---
 layout: haiku
-title: butterflies
+title: tree_painting
 author: garima
 ---
 
-Butterflies are cool<br>
-in the big, huge,green forest<br>
-They fly up so high!<br>
+the tree shape i blew<br>
+from a little drop of paint<br>
+looks like a dancer<br>
+
 
