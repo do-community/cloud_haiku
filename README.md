@@ -84,7 +84,7 @@ Across the network<br>
 
 For example, Sammy the Shark's haiku is called "Octopus Cloud," and they wrote their name as just "Sammy." Sammy named their file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
 
-```
+```markdown
 ---
 layout: haiku
 title: Octopus Cloud
