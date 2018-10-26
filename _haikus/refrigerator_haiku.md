@@ -2,6 +2,7 @@
 layout: haiku
 title: Refrigerator Haiku
 author: pun.me
+test: false
 ---
 
 Haikus are easy<br>
