@@ -2,6 +2,7 @@
 layout: haiku
 title: Webisu Cloud
 author: aabeas
+test: false
 ---
 
 Medusa rays pulse<br>
