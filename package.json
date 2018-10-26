@@ -1,0 +1,29 @@
+{
+  "name": "cloud_haiku",
+  "version": "1.0.0",
+  "description": "Haiku structure testing for cloud_haiku repo",
+  "main": "test.js",
+  "scripts": {
+    "test": "tap test.js -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/do-community/cloud_haiku.git"
+  },
+  "author": "DigitalOcean Community Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/do-community/cloud_haiku/issues"
+  },
+  "homepage": "https://github.com/do-community/cloud_haiku#readme",
+  "dependencies": {
+    "remark": "^10.0.0",
+    "remark-extract-frontmatter": "^2.0.0",
+    "remark-frontmatter": "^1.3.0",
+    "strip-markdown": "^3.0.2",
+    "syllable": "^3.1.0",
+    "tap": "^12.0.1",
+    "to-vfile": "^5.0.1",
+    "yaml": "^1.0.0"
+  }
+}
