@@ -18,7 +18,7 @@ You should name your Markdown file `your_haiku_title.md` and put it in the [`/_h
 
 Because this is a [Jekyll](https://jekyllrb.com/) site, you'll also need to include some boilerplate at the top of the file:
 
-```
+```yaml
 ---
 layout: haiku
 title:
@@ -68,7 +68,7 @@ Many forms of poetry have specific aesthetic rules to follow. This challenge mak
 
 To ensure that there are proper line breaks, you will need to put two blank spaces after each line of your haiku. Alternately, you can use HTML line breaks, like so:
 
-```
+```markdown
 ---
 layout: haiku
 title: Octopus Cloud
@@ -95,6 +95,31 @@ Distributed cloud
 Like the octopuses' minds  
 Across the network  
 ```
+
+### Testing
+
+This repository includes a test script that will be run on every pull request. To run the tests locally, you'll need Node.js installed. You should then be able to install the dependencies and run the tests.
+
+First clone the repo, if you haven't done so already:
+
+```shell
+$ git clone https://github.com/do-community/cloud_haiku.git
+```
+
+Then change into the new directory and install the dependencies with `npm`:
+
+```shell
+$ cd cloud_haiku
+$ npm install
+```
+
+Finally, run the tests:
+
+```shell
+$ npm test
+```
+
+Note that due to the "creativity" of the English language it's possible for the syllable counting library to be off. If your pull request fails test and you think that's in error, please follow up with a comment.
 
 ### Submit a Pull Request
 
