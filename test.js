@@ -74,7 +74,7 @@ function validateHaiku(filename, lines, meta) {
         assert.equal(syllable(lines[0]), 5)
       })
 
-      it('should have seven syllables on the second line', () => {
+      it('should have seven syllables on the second-line', () => {
         assert.equal(syllable(lines[1]), 7)
       })
 
