@@ -1,5 +1,5 @@
 ---
-format: haiku
+layout: haiku
 title: Lost
 author: Alex L
 ---
