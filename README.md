@@ -26,7 +26,7 @@ author:
 ---
 ```
 
-Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
+Keep the layout as-> `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
 
 Under this heading, you'll put your haiku.
 
