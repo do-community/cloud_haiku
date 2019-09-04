@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Objective-Cloud
+title: objective-cloud
 author: Joseph Gattuso
 ---
 
-to cloud or to git?
-pondered the rubber ducky
-such profound choices
+To cloud or to git<br>
+Pondered a wise rubbber duck<br>
+Such profound choices<br>
