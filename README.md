@@ -60,7 +60,7 @@ Like the oc-to-pus-es' minds  # 7 syllables
 A-cross the net-work  # 5 syllables  
 ```
 
-In order to verify that you're using the the right number of syllables, you can use a tool such as [http://www.haikusyllablecounter.com](http://www.haikusyllablecounter.com).
+In order to verify that you're using the right number of syllables, you can use a tool such as [http://www.haikusyllablecounter.com](http://www.haikusyllablecounter.com).
 
 Many forms of poetry have specific aesthetic rules to follow. This challenge makes writing poetry an enjoyable art form.
 
