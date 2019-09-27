@@ -5,5 +5,5 @@ author: Akliph
 ---
 
 I Upload Download<br>
-Is really helpful to me<br>
-I like the cloud<br>
+It's really helpful to me<br>
+I do like the cloud<br>
