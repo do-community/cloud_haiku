@@ -82,9 +82,7 @@ function validateHaiku(filename, lines, meta) {
         assert.equal(syllable(lines[2]), 5)
       })
 
-      it('should have five syllables on the fourth line', () => {
-        assert.equal(syllable(lines[3]), 5)
-      })
+     
     })
   })
 }
