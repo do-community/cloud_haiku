@@ -5,5 +5,5 @@ author: Rishab Menon
 ---
 
 Iron Throne win who? <br>
-Google, Microsoft, AWS? <br>
+Google, Azure, AWS? <br>
 Amazon it is! <br>
