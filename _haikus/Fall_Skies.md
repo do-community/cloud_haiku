@@ -4,9 +4,9 @@ title: Fall Skies
 author: BrandonMGH
 ---
 
-Pumpkins smile<br>
-The world darkens<br>
-October has fallen<br>
+Pumpkins smile brightly<br>
+The world darkens quietly<br>
+Autumn has fallen<br>
 
 
 
