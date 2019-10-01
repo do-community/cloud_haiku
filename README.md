@@ -1,6 +1,6 @@
 # Welcome to Cloud Haiku
 
-Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website.
+Cloud Haiku is an open-source repository that collects haikus about the **cloud** and **cloud technology** and publishes these haikus to its website.
 
 ## [Haikus](https://do-community.github.io/cloud_haiku/haikus/)
 
@@ -38,7 +38,7 @@ Your haiku should be fun and challenging to write. You must ensure that it fits 
 
 ### Haiku Format
 
-Haikus are a traditional form of Japanese poetry. They are made up of three lines and have a total of 17 syllables. These poems follow the 5-7-5 format of syllables across the three lines.
+Haikus are a traditional form of Japanese poetry. They are made up of three lines and have a total of **17 syllables**. These poems follow the 5-7-5 format of syllables across the three lines.
 
 *Syllables* are a unit of organization for speech sounds that typically include a vowel. For example, the word **computer** is composed of three syllables: **com** - **put** - **er**.
 
