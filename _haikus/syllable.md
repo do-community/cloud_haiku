@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: words
+title: syllable
 author: hassan
 ---
 
