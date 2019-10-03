@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Cloud Nine
+title: DNS Troubleshooting
 author: Kirk Bater
 ---
 
