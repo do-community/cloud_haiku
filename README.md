@@ -10,7 +10,7 @@ All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/
 
 To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial "[How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)" and then compose a haiku in Markdown (`.md`).
 
-**:heavy_exclamation_mark:Note: Due to the popularity of this repository, especially around Hacktoberfest, we will only accept one haiku contribution per user.** 
+**:heavy_exclamation_mark:Note: Due to the popularity of this repository, especially around Hacktoberfest, we will only accept one haiku contribution per user.**
 
 ### Filename and Location
 
@@ -26,6 +26,7 @@ layout: haiku
 title:
 author:
 ---
+
 ```
 
 Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
@@ -42,14 +43,14 @@ Your haiku should be fun and challenging to write. You must ensure that it fits 
 
 Haikus are a traditional form of Japanese poetry. They are made up of three lines and have a total of 17 syllables. These poems follow the 5-7-5 format of syllables across the three lines.
 
-*Syllables* are a unit of organization for speech sounds that typically include a vowel. For example, the word **computer** is composed of three syllables: **com** - **put** - **er**.
+_Syllables_ are a unit of organization for speech sounds that typically include a vowel. For example, the word **computer** is composed of three syllables: **com** - **put** - **er**.
 
 Let's look at an example haiku from this repository:
 
 ```
-Distributed cloud  
-Like the octopuses' minds  
-Across the network  
+Distributed cloud
+Like the octopuses' minds
+Across the network
 ```
 
 Above, we see that the haiku is composed of 3 lines.
@@ -57,9 +58,9 @@ Above, we see that the haiku is composed of 3 lines.
 The first line is 5 syllables long, the second line is 7 syllables long, and the third line is 5 syllables long.
 
 ```
-Dis-trib-ut-ed cloud  # 5 syllables  
-Like the oc-to-pus-es' minds  # 7 syllables  
-A-cross the net-work  # 5 syllables  
+Dis-trib-ut-ed cloud  # 5 syllables
+Like the oc-to-pus-es' minds  # 7 syllables
+A-cross the net-work  # 5 syllables
 ```
 
 In order to verify that you're using the right number of syllables, you can use a tool such as [http://www.haikusyllablecounter.com](http://www.haikusyllablecounter.com).
@@ -95,7 +96,7 @@ author: Sammy
 
 Distributed cloud  
 Like the octopuses' minds  
-Across the network  
+Across the network
 ```
 
 ### Testing
@@ -130,3 +131,5 @@ We're happy to merge valid pull requests to this repository! Any pull request th
 Keep your haikus related to cloud infrastructure technology, and have fun contributing to this project!
 
 ![Sammy the Shark and other fish swimming](https://do-community.github.io/cloud_haiku/assets/swim.png)
+
+**This pull request is created by [lifeoflikhon](https://github.com/lifeoflikhon)**
