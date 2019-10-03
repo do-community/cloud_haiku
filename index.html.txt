@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+	<TITLE>hello world</TITLE>
+</HEAD>
+<BODY>
+<h1>HELLO WORLD!!!</h1>
+GIT IS FUN......
+</BODY>
+</HTML>
