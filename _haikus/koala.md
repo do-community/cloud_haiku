@@ -5,5 +5,5 @@ author: urbanfog
 ---
 
 Two thumbs on each hand  
-stuffing and chewing leaves
-too tired, must eat more.
+stuffing, chewing, eating leaves.  
+Too tired, must have more.
