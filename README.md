@@ -10,7 +10,7 @@ All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/
 
 To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial "[How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)" and then compose a haiku in Markdown (`.md`).
 
-**:heavy_exclamation_mark:Note: Due to the popularity of this repository, especially around Hacktoberfest, we will only accept one haiku contribution per user.** 
+**Note: Due to the popularity of this repository, especially around Hacktoberfest, we will only accept one haiku contribution per user.** 
 
 ### Filename and Location
 
