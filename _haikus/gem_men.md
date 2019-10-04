@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title: Octopus Cloud
-author: Sammy
+title: Gem Men
+author: Arinjay
 ---
 
 World is full of men<br>
