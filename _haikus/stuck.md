@@ -1,5 +1,5 @@
 -------------
-layout: haiku
+layout:haiku
 title: I am stuck
 author: ncm
 test: false
