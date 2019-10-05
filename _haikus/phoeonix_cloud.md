@@ -4,5 +4,5 @@ title: Phoenix
 author: Willow
 ---
 I am a phoenix<br>
-Ashes only bring rebirth<br>
+Those bright pieces of future<br>
 Your flames hurt me not<br> 
