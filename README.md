@@ -100,7 +100,7 @@ Across the network
 
 ### Testing
 
-This repository includes a test script that will be run on every pull request. To run the tests locally, you'll need Node.js installed. You should then be able to install the dependencies and run the tests.
+This repository includes a test script that will be run on every pull request. To run the tests locally, you will need Node.js installed. You should then be able to install the dependencies and run the tests.
 
 First clone the repo, if you haven't done so already:
 
