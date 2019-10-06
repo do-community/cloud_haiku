@@ -102,7 +102,7 @@ Across the network
 
 This repository includes a test script that will be run on every pull request. To run the tests locally, you'll need Node.js installed. You should then be able to install the dependencies and run the tests.
 
-First clone the repo, if you haven't done so already:
+First clone the repo, if you haven not done so already:
 
 ```shell
 $ git clone https://github.com/do-community/cloud_haiku.git
