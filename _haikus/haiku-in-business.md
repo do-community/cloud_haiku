@@ -1,7 +1,8 @@
-
+---
 layout: haiku
 title: cloud and business
-author:adeleke5140
+author: adeleke5140
+---
 
 the cloud, the future <br>
 changed the way business work. <br>
