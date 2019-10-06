@@ -5,5 +5,5 @@ author: adeleke5140
 ---
 
 the cloud, the future <br>
-changed the way business work. <br>
+changed the way businesses work. <br>
 seamless flow of work. <br>
