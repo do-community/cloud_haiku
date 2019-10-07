@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: How do ya know ma  father name ?
+title: How do ya know my father name ?
 author: Charblues Band
 ---
 
-This is Morning in mondays<br>
-I hear ma friend call someone<br>
-that sound does have ma name but that name is my father name<br>
+life had just begun<br>
+Mama, just killed a man<br>
+I don't want to die<br>
