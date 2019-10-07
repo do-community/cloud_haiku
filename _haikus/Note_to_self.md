@@ -5,6 +5,10 @@ author: Abubakar
 ---
 
 
-In life being truthful
-to yourself requires patience
-and self awareness
+Listen, be yourself.
+
+
+Grow through what you go through and
+
+
+learn to be better
