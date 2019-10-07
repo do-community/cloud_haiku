@@ -5,5 +5,5 @@ author: Charblues Band
 ---
 
 life had just begun<br>
-Mama, just killed a man<br>
+Mama just killed a man na<br>
 I don't want to die<br>
