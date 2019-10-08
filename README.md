@@ -24,7 +24,7 @@ Because this is a [Jekyll](https://jekyllrb.com/) site, you'll also need to incl
 ---
 layout: haiku
 title:
-author:
+author: Nafilul Mubin
 ---
 ```
 
