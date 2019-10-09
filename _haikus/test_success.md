@@ -5,6 +5,6 @@ author: Nafilul Mubin
 test: fail
 ---
 
-Whatever You're <br>
-Be a good one <br>
-Abraham Lincoln <br>
+Personality <br>
+Conceptualization <br>
+Multiplication <br>
