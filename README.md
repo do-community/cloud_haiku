@@ -128,7 +128,7 @@ Note that due to the "creativity" of the English language it's possible for the 
 We're happy to merge valid pull requests to this repository! Any pull request that follows the formatting guidelines above will be brought into this project.
 
 Keep your haikus related to cloud infrastructure technology, and have fun contributing to this project!
-Test change
+
 
 
 ![Sammy the Shark and other fish swimming](https://do-community.github.io/cloud_haiku/assets/swim.png)
