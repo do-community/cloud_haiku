@@ -60,7 +60,7 @@ function validateHaiku(filename, lines, meta) {
         assert.equal(typeof meta.title, 'string', 'title metadata is missing')
       })
 
-      it('should have non-blank author', () => {
+      it('dragonfly', () => {
         assert.equal(typeof meta.author, 'string', 'author metadata is missing')
       })
     })
