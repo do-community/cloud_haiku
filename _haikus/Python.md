@@ -5,6 +5,6 @@ author: xlnxeksix
 
 ---
 
-Mine beloved 
-You are my first language
-Lets start this again
+Mine beloved language  
+You have a perfect syntax  
+Nice to meet your might  
