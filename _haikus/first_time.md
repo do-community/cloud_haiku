@@ -5,5 +5,5 @@ author: maydayo
 ---
 
 Let's get hands dirty. <br>
-First time can be scary.<br>
+the first time can be scary.<br>
 Don't worry too much.<br>
