@@ -6,4 +6,4 @@ author: HereToLearn101
 
 Haiku rhymes with you
 Five seven five oh that's you
-The end, thank you
+That is it, thank you
