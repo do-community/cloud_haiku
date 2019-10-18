@@ -1,9 +1,9 @@
 ---
 layout: haiku
 title: Fantastical
-author: Amber Roberts
+author: Amberian
 ---
 
-Is this a storm cloud,
-or the technology kind?
-I can't really say
+Is this a storm cloud,<br>
+or the technology kind?<br>
+I can't really say<br>
