@@ -130,3 +130,5 @@ We're happy to merge valid pull requests to this repository! Any pull request th
 Keep your haikus related to cloud infrastructure technology, and have fun contributing to this project!
 
 ![Sammy the Shark and other fish swimming](https://do-community.github.io/cloud_haiku/assets/swim.png)
+
+### Bye!!
