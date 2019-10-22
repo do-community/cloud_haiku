@@ -4,6 +4,6 @@ title: homework
 author: geekycomrade
 ---
 
-writing haikus fun<br>
-sorry for too many ones<br>
-need to do homework<br>
+Leaves down everywhere  
+lots of colors through the year  
+fall is almost here  
