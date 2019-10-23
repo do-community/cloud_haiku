@@ -5,5 +5,5 @@ author: cruz
 ---
 
 please serve the content<br>
-data will spread knowledge<br>
-gave birth to light above<br>%
+this data will spread knowledge <br>
+birthing light above <br>%
