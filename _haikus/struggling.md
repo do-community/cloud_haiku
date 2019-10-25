@@ -2,7 +2,6 @@
 layout: haiku
 title: Struggling
 author: Ashley Weston
-test: false
 ---
 
 What am I doing <br>
