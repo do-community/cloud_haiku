@@ -1,9 +1,10 @@
+@@ -0,0 +1,9 @@
 ---
 layout: haiku
-title: Exploring Git
-author: Kundan Nath
+title: Learning Cloud
+author: Kundan
 ---
 
-First Repository<br>
-Contribute To Open Source<br>
-Via learned from HacktoberFest<br>
+Cloud is next generation infra<br>
+Learning solutions on cloud<br>
+Will get sucess and win<br>
