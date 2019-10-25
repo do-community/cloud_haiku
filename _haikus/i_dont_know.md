@@ -2,7 +2,6 @@
 layout: haiku
 title: I don't know
 author: Michael Lehmann
-test: false
 ---
 
 What should I write here? <br>
