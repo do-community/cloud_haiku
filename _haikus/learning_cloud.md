@@ -2,7 +2,6 @@
 layout: haiku
 title: Learning Cloud
 author: Bethany
-test: false
 ---
 
 Cloud is very cool <br>
