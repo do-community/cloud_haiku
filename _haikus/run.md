@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: The run
+title: Running
 author: Alex Gonzales
 ---
 
