@@ -2,7 +2,6 @@
 layout: haiku
 title: This is tough
 author: WK
-test: false
 ---
 
 I am bad at this <br>
