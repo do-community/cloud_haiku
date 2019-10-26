@@ -83,7 +83,7 @@ function validateHaiku(filename, lines, meta) {
       })
     })
 
-  })my changechach
+
 
 
 
