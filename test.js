@@ -83,6 +83,6 @@ function validateHaiku(filename, lines, meta) {
       })
     })
 
-  })my update
+  })my changes
 }
  
