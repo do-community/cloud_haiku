@@ -82,5 +82,7 @@ function validateHaiku(filename, lines, meta) {
         assert.equal(syllable(lines[2]), 5)
       })
     })
-  })
+
+  })my changes
 }
+ 
