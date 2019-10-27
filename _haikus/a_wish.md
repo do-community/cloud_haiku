@@ -4,6 +4,6 @@ title:  a_wish
 author: c0d3r$
 ---
 
-Be the source of<br>
-light and let rest reflect it<br>
+Be the source of light<br>
+and let everyone reflect it<br>
 to make this world bright.<br>
