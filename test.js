@@ -1,4 +1,4 @@
-require('tap').mochaGlobals()
+qqqqqqqqqqqqqqqqrequire('tap').mochaGlobals()
 const assert = require('assert')
 const remark = require('remark')
 const frontmatter = require('remark-frontmatter')
