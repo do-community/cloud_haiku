@@ -2,7 +2,7 @@
 ---
 layout: haiku
 title: Spider Clouds
-author:clion
+author: clion
 ---
 
 A single network<br>
