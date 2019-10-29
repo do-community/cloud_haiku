@@ -4,6 +4,9 @@ title: Scorpions
 author: turgayh
 ---
 
-Wind of change
-Greta Thunberg
-How dare you!!
+I was in terminal<br>
+The page was dark and somber.<br>
+I dream cmd.<br>
+
+
+
