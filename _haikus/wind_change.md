@@ -2,8 +2,9 @@
 layout: haiku
 title: Scorpions
 author: turgayh
+test: false
 ---
 
-wind of change world <br>
-G. Thunberg<br>
-How dare you!!!!!<br>
+Python can byte me
+Pythonista wannabe
+Repetition now
