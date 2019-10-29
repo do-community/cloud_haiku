@@ -5,6 +5,6 @@ author: turgayh
 test: false
 ---
 
-Python can byte me
-Pythonista wannabe
-Repetition now
+Wind of change
+Greta Thunberg
+How dare you!!
