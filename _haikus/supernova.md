@@ -6,4 +6,4 @@ author: Patrick
 
 A supernova<br>
 Astronomical firework<br>
-A marvellous site<br>
+A marvellous sight<br>
