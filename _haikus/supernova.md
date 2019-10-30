@@ -4,6 +4,6 @@ title: Supernova
 author: Patrick
 ---
 
-a supernova<br>
-astronomical firework<br>
-a marvellous site<br>
+A supernova<br>
+Astronomical firework<br>
+A marvellous site<br>
