@@ -2,6 +2,7 @@
 layout: haiku
 title: Storage CLoud
 author: durga-codehub
+test: false
 ---
 
 clouds store all the load<br> 
