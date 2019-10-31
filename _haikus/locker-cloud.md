@@ -2,6 +2,7 @@
 layout: haiku
 title: Locker Cloud
 author: bluey-crypto
+test: false
 ---
 
 the clouds lock up all<br>
