@@ -2,6 +2,7 @@
 layout: haiku
 title: blue-bycycle
 author: rishabgarg100
+test: false
 ---
 
 blue bicycles trip <br>
