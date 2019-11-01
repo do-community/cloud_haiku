@@ -5,5 +5,5 @@ author: marcosbaesse
 ---
 
 I'm a Cloud Alchemist<br>
-I found the Philosophal Stone<br>
-But now, it's a Philosophal Service<br>
+I've found the Philosopher's Stone<br>
+But now, it's a Philosopher's Service<br>
