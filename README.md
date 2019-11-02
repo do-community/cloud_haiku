@@ -14,7 +14,7 @@ To contribute a haiku to this repository, read about submitting a pull request i
 
 ### Filename and Location
 
-You should name your Markdown file `your_haiku_title.md` and put it in the [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory of this project.
+You should namedev your Markdown file `your_haiku_title.md` and put it in the [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory of this project.
 
 ### Jekyll Format
 
