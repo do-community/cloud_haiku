@@ -20,12 +20,15 @@ You should name your Markdown file `your_haiku_title.md` and put it in the [`/_h
 
 Because this is a [Jekyll](https://jekyllrb.com/) site, you'll also need to include some boilerplate at the top of the file:
 
-```yaml
+```yaml[http://www.haikusyllablecounter.com
 ---
 layout: haiku
-title:
-author:
+title: Begone sinful people
+author: John
 ---
+Begone thots I am<br>
+a Man of God Begone Thots<br>
+do not mess with me<br>
 ```
 
 Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
