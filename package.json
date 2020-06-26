@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/do-community/cloud_haiku#readme",
   "dependencies": {
+    "npm": "^6.14.5",
     "remark": "^11.0.1",
     "remark-extract-frontmatter": "^2.0.0",
     "remark-frontmatter": "^1.3.2",
