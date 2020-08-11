@@ -1,7 +1,9 @@
-# Sharky, a Haiku
+---
+layout: haiku
+title: Sharky, a Haiku
+author: Lyn Muldrow
+---
 
-Learning to code is
-
-Like a shark to barren land… 
-
-…firehose to face.
+Learning to code is<br>
+Like a shark to barren land<br>
+firehose to face<br>
