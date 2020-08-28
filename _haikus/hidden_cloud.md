@@ -4,6 +4,6 @@ title: Hidden Cloud
 author: Bharathi BMS
 ---
 
-All data in the cloud<br>
-With clear blue sky outside<br>
-Where is my data?<br> 
+All data in cloud<br>
+With clear blue sky outside there<br>
+Where is my data?<br>
