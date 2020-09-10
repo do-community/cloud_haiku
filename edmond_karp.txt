@@ -1,0 +1,113 @@
+// not completed
+// Max Flow problem
+// time complexity : O(E x V^2)
+#include<bits/stdc++.h>
+#define loop1(size) for(int i=0;i<size;i++)
+using namespace std;
+int capacity[10][10];
+void fun2(int capacity[][10],int u,int v,int res_capacity)
+{
+		capacity[u][v]=res_capacity;
+		capacity[v][u]=0;
+}
+void create_graph(vector<int> v1[],int x,int y)
+{
+		// edge (x,y)
+		v1[x].push_back(y);		
+}
+void display(vector<int> v[],int size)
+{
+		vector<int>:: iterator itr;
+		loop1(size)
+		{
+			cout<<i<<" :";
+			for(itr=v[i].begin();itr!=v[i].end();itr++)
+			{
+				cout<<*itr<<"-->";
+			}
+			cout<<"\n";
+
+		}
+}
+int BFS_Util(vector<int> adj_list[],int parent[],int source,int sink,int size)
+{
+		int min_val,v,flow;
+		for(int i=0;i<size;i++)
+			parent[i]=-1;
+		parent[source]=-2;
+		queue<pair<int,int> > q;
+		q.push(make_pair(source,1000));
+		int crnt;
+		while(q.empty()!=1)
+		{
+			crnt=(q.front()).first;
+			flow=(q.front()).second;
+			q.pop();
+			for(vector<int>::iterator itr=adj_list[crnt].begin();itr!=adj_list[crnt].end();itr++)
+			{
+				v=*itr;
+				if(capacity[crnt][v]!=0 && parent[v]==-1)
+				{
+					min_val=min(flow,capacity[crnt][v]);
+					parent[v]=crnt;
+					if(v==sink)
+						return min_val;
+					q.push(make_pair(v,min_val));
+					
+				}
+			}
+		}
+		return 0;	// if sink vertex cannot be reached i.e all possible augmenting paths have been found
+}
+int fun1(vector<int> adj_list[],int source,int sink,int size)
+{
+		int parent[size];
+		int max_flow=0,flow,u,v;
+		flow=BFS_Util(adj_list,parent,source,sink,size);
+		while(flow!=0)
+		{
+			max_flow+=flow;
+			v=sink;
+			while(v!=source)
+			{
+				u=parent[v];
+				capacity[u][v]-=flow;
+				capacity[v][v]+=flow;
+				v=u;
+			}
+			flow=BFS_Util(adj_list,parent,source,sink,size);
+		}
+		return max_flow;
+}
+int main()
+{
+		int size1,size2,x,y,t,res_capacity,source,sink;
+		cout<<"ENTER THE NUMBER OF VERTICES :";
+		cin>>size1;
+		vector<int> v[size1];	// array of vectors
+		//cout<<"ENTER THE NUMBER OF EDGES :";
+		//cin>>size2;
+		loop1(size1)
+		{
+				cout<<"VERTEX "<<i<<" :\n";
+				cout<<"ENTER NUMBER OF EDGES FOR VERTEX "<<i<<" ";
+				cin>>t;
+				for(int j=0;j<t;j++)
+				{
+					cout<<"ENTER Y:";
+					cin>>y;
+					cout<<"ENTER CAPACITY :";
+					cin>>res_capacity;
+					create_graph(v,i,y);
+					fun2(capacity,i,y,res_capacity);
+				}
+		}
+		cout<<"ENTER THE SOURCE VERTEX :";
+		cin>>source;
+		cout<<"ENTER THE SINK VERTEX :";
+		cin>>sink;
+		int max_flow=fun1(v,source,sink,size1);
+		cout<<"MAX FLOW :"<<max_flow;
+		int in;
+		cin>>in;
+}
