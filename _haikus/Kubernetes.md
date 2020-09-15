@@ -2,6 +2,7 @@
 layout: haiku
 title: Kubernetes be like
 author: Code-JD
+test: false
 ---
 
 Kubernetes be<br>
