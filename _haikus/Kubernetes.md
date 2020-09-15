@@ -5,5 +5,5 @@ author: Code-JD
 ---
 
 Kubernetes be<br>
-like deploy scale manage<br>
-web apps for everyone<br>
+like deploy, scale, and manage<br>
+web apps for us all<br>
