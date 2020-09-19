@@ -30,6 +30,8 @@ author:
 
 Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
 
+**Note**: We are using Travis CI as a test suite to help us automatically test markdown files. While maintainers sometimes need to override the test suite, disabling it as a contributor will cause extra work for maintainers. Please keep your markdown heading to be exactly as is described above in order to ensure that your pull request will be merged.
+
 Under this heading, you'll put your haiku.
 
 ### Writing a Haiku
@@ -44,7 +46,7 @@ Haikus are a traditional form of Japanese poetry. They are made up of three line
 
 *Syllables* are a unit of organization for speech sounds that typically include a vowel. For example, the word **computer** is composed of three syllables: **com** - **put** - **er**.
 
-Let's look at an example haiku from this repository:
+Let's consider an example haiku from this repository:
 
 ```
 Distributed cloud  
