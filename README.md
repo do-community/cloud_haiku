@@ -86,7 +86,7 @@ Across the network<br>
 
 ### An Example
 
-For example, Sammy the Shark's haiku is called "Octopus Cloud," and they wrote their name as just "Sammy." Sammy named their file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
+For example, Sammy the Shark's haiku is called "Octopus Cloud", and they wrote their name as just "Sammy". Sammy named their file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
 
 ```markdown
 ---
@@ -95,9 +95,9 @@ title: Octopus Cloud
 author: Sammy
 ---
 
-Distributed cloud  
-Like the octopuses' minds  
-Across the network  
+Distributed cloud<br>
+Like the octopuses' minds<br>
+Across the network<br>
 ```
 
 ### Testing
