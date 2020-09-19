@@ -75,6 +75,7 @@ To ensure that there are proper line breaks, you will need to put two blank spac
 layout: haiku
 title: Octopus Cloud
 author: Sammy
+contributor: Loukik
 ---
 
 Distributed cloud<br>
