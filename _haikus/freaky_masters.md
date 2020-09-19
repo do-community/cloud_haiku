@@ -4,5 +4,5 @@ title: freaky_masters
 author: Kalpesh
 ---
 
-Why a C++ developer is richer than Java developers ? ...
-Because C++ can have Multiple Inheritance !!! 
+Why C++ developers are richer than Java developers ? ...
+Because C++ supports Multiple Inheritance !!! 
