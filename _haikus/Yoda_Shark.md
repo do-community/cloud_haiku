@@ -4,6 +4,6 @@ title: Yoda Shark
 author: Pranay Kothari
 ---
 
-I love Mando<br>
-In force I trust<br>
-I'm the one with the force, force is with me<br>
+Distributed cloud<br>
+Like the octopuses' minds<br>  
+Across the network<br>
