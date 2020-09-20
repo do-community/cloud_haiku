@@ -4,6 +4,6 @@ title: sunny
 author: arnab
 ---
 
-sunny sunny sunny<br>
-a day begins with sunny<br> 
-to make our day with sunny<br>
+Autumn moonlight<br>
+a worm digs silently<br>
+into the chestnut.<br>
