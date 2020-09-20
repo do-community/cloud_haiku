@@ -6,4 +6,4 @@ author: c0d3nh4ck
 
 Play this with enthu<br>
 Search google for solution<br>
-This is all-in-one CTF<br>
+This is one-only CTF<br>
