@@ -4,6 +4,6 @@ title: Yoda Shark
 author: Pranay Kothari
 ---
 
-Distributed cloud<br>
-Like the octopuses' minds<br>  
-Across the network<br>
+Mine limitless cloud<br>
+Falling mines outstands the cloud<br>
+Out of a pure cloud<br>
