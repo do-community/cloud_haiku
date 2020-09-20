@@ -1,11 +1,9 @@
 ---
 layout: haiku
-title: Let's develop Cool stuff
+title: Let's try haiku
 author: Sanchit Singhal
 ---
 
-If you are a good Programmer,
-then you also need to be a cool
-and smart Developer to convert
-your Programming skills to something 
-that you can showcase.
+I'm trying haiku
+It's my first time here and there
+Hope for the best here
