@@ -5,5 +5,5 @@ author: Dhanvanth Balakrishnan
 ---
 
 Learning to code is<br>
-Like a spark to a match...<br>
+Like a spark to gas burner...<br>
 ...internet to life<br>
