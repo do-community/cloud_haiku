@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title: Octopus Cloud
-author: Sammy
+title: Hi there
+author: Natalia
 ---
 
 Distributed cloud<br>
