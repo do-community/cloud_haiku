@@ -6,4 +6,4 @@ author: D Rhodes
 
 Just another node<br>
 waiting to be connected ...<br>
-in the noosphere.<br>
+to the noosphere.<br>
