@@ -4,6 +4,6 @@ title: Sha, hey Haiku
 author: Sharmila
 ---
 
-From across the lake, <br>
-Past the black winter trees, <br>
-Faint sounds of a flute.<br>
+wind rain you and me<br>
+went looking for a new house<br>
+o the grass grows loud<br>
