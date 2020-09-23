@@ -5,5 +5,5 @@ author: sheetalparsa
 ---
 
 Safe information<br>
-Can be easily access<br>
+Can be easily accessed<br>
 Anywhere in world<br>
