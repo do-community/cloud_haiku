@@ -1,5 +1,5 @@
 ---
-layout:haiku
+layout: haiku
 title: Salshi, a Haiku
 author: Sakshi Kumar
 ---
