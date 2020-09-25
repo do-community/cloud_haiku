@@ -4,6 +4,6 @@ title: bicycle
 author: AHb
 ---
 
- Riding vehicles<br>
+ Riding bicycle<br>
  Meeting lively new people<br>
  That's incredible<br>
