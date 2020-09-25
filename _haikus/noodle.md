@@ -4,6 +4,6 @@ title: noodle
 author: Sigitto
 ---
 
-You make me crazy.<br>
-I don't know,<br>
-you are always deliciousg<br>
+You tryna make wow.<br>
+I don't know what should i do,<br>
+you're always be nice<br>
