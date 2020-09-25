@@ -4,6 +4,6 @@ title: enjoing_life
 author: BhavikChavda
 ---
 
- Reading books, working hard<br>
- Meeting lively new people<br>
- Life became incredible<br>
+Travelling, Reading<br>
+Meeting lively new people<br>
+That's incredible<br>
