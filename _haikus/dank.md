@@ -4,7 +4,6 @@ title: Everything is Blue
 author: Amini
 ---
 
-Roses are Red and violets<br>
-Violets are Blue world  <br>
-is doomed soareU.
-
+roses are red and <br>
+violets are blue, be cool <br>
+and get rid of flu.
