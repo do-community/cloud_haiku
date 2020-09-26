@@ -49,9 +49,9 @@ Haikus are a traditional form of Japanese poetry. They are made up of three line
 Let's consider an example haiku from this repository:
 
 ```
-Distributed cloud  
-Like the octopuses' minds  
-Across the network  
+Distributed cloud  <br>
+Like the octopuses' minds  <br>
+Across the network  <br>
 ```
 
 Above, we see that the haiku is composed of 3 lines.
@@ -70,7 +70,7 @@ Many forms of poetry have specific aesthetic rules to follow. This challenge mak
 
 ### Line Breaks
 
-To ensure that there are proper line breaks, you will need to put two blank spaces after each line of your haiku. Alternately, you can use HTML line breaks, like so:
+To ensure that there are proper line breaks, please use HTML line breaks, like so:
 
 ```markdown
 ---
