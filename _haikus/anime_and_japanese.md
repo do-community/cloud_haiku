@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: anime and japanese
+title: Anime and Japanese
 author: Supr3me
 ---
 
