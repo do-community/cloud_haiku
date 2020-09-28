@@ -1,5 +1,5 @@
 ---
-layout: Haiku
+layout: haiku
 title: Sc, a Haiku
 author: Neha
 ---
