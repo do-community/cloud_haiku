@@ -1,7 +1,9 @@
 ---
 layout: haiku
-title: ikkhannn, first pull request
-author: Me
+title: first pull request 
+author: ikkhannn
 ---
 
-A day went without learning anything is a day wasted.
+A day went  <br>
+without learning  <br>
+is a day wasted  <br>
