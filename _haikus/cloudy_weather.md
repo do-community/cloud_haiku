@@ -1,5 +1,5 @@
 ---
-layout: Haiku
+layout: haiku
 title: Cloudy Weather
 author: TreshaSar
 ---
