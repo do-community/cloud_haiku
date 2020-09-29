@@ -4,6 +4,6 @@ title: Flow
 author: DimensionalCoder
 ---
 
-Looking at the river<br>
-Which flows with no fear<br>
-Until it nears the ocean<br>
+On a rainy day<br>
+Flows a great ancient river<br>
+Next to the ocean<br>
