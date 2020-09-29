@@ -4,6 +4,6 @@ title: Programming in Vim
 author: jgundy64
 ---
 
-Programming in Vim,
-Oh what a fantastic time,
-How does one close it?
+Programming in Vim,<br>
+Oh what a fantastic time,<br>
+How does one close it?<br>
