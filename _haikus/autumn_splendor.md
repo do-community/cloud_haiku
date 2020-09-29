@@ -4,6 +4,6 @@ title:  Autumn Splendor
 author: pkrez
 ---
 
-Test<br>
-Haiku<br>
-Here<br>
+Well-named Fall event<br>
+Leaf color indeed splendid<br>
+Now about that rain<br>
