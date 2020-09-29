@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title: Gitting for Hacktoberfest 
-author: @SirTarragon
+title: Gitting for Hacktoberfest
+author: Tyler Pease
 ---
 
 Learning git just now<br>
