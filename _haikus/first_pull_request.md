@@ -4,6 +4,6 @@ title: first pull request
 author: ikkhannn
 ---
 
-A day went  <br>
-without learning  <br>
-is a day wasted  <br>
+i believe a day <br>
+without learning anything <br>
+is a day wasted <br>
