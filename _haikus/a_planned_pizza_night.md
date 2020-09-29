@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: A Planned Pizza Night
-author: Joss
+title: a planned pizza night
+author: joss
 ---
 
 Eating the pizza
-Burning my tongue on its heat
+Burning my tongue on heat
 Having fun in love.
