@@ -4,7 +4,6 @@ title: Vader on a Glider
 author: Ajay Thoomkuzhy Jose
 ---
 
-The dark side is evil<br>
-and where fun is illegal<br>
-Littl vader jr. on his tiny glider<br>
-Zooming as clouds got wider<br>
+Unknown is haiku<br>
+Hacktoberfest introduced<br>
+I love open source<br>
