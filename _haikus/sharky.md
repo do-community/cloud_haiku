@@ -4,6 +4,6 @@ title: Sharky, a Haiku
 author: Lyn Muldrow
 ---
 
-Learning to code is<br>
-Like a shark to barren land...<br>
-...firehose to face<br>
+All the days blending<br>
+Together into a stew<br>
+but not a good stew<br>
