@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title:  Harmony of Code
-author: sandy
+author: tanay
 ---
 
 I do have a shirt <br>
