@@ -1,14 +1,14 @@
-# Welcome to Cloud Haiku
+# selamat datang di Cloud Haiku
 
-Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website.
+Cloud Haiku adalah repositori open-source yang mengumpulkan haikus tentang cloud dan teknologi cloud dan menerbitkan haiku ini ke situsnya.
 
 ## [Haikus](https://do-community.github.io/cloud_haiku/haikus/)
 
-All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/haikus/)** are available via the [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory.
+Semua yang dikirim pengguna kami **[haikus](https://do-community.github.io/cloud_haiku/haikus/)** tersedia melalui [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory.
 
 ## Contributing
 
-To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial "[How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)" and then compose a haiku in Markdown (`.md`).
+Untuk menyumbangkan haiku ke repositori ini, baca tentang mengirimkan permintaan tarik di tutorial DigitalOcean "[How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)" and then compose a haiku in Markdown (`.md`).
 
 **Note: Due to the popularity of this repository, especially around Hacktoberfest, we will only accept one haiku contribution per user.**
 
