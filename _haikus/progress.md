@@ -1,9 +1,8 @@
 ---
 layout: haiku
-title: mrdecent, a Haiku
+title: progress, a haiku
 author: Sushant Kumar
 ---
-
-Everyday doing something meaningfull<br>
-than doing nothing....<br>
-is a sign of progress.<br>
+Every-day do some-thing<br>
+ra-ther than no-thing and that....<br>
+.... a sign of pro-gress.<br>
