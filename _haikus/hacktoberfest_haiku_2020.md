@@ -1,6 +1,6 @@
---- 
-layout: haiku 
-title:  hacktoberfest Haiku 2020 
+---
+layout: haiku
+title: hacktoberfest Haiku 2020
 author: Virginie
 ---
 
