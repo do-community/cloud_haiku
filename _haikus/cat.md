@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Cats
+title: Cute cats
 author: Samylle Sales
 ---
 
