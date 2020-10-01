@@ -2,9 +2,7 @@
 layout: haiku
 title: Learning Haiku
 author: paulorfarah
-test: false
 ---
-
-liking<br>
-living<br>
-learning<br>
+liking living learn<br>
+learning liking living life<br>
+living learning like<br>
