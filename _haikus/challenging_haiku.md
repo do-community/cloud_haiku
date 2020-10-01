@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Challenging haiku
-autor: ManuoH
+author: ManuoH
 ---
 
 Haikus are easy<br>
