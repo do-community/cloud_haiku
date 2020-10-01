@@ -4,6 +4,6 @@ title: Cute Cats
 author: Samylle Sales
 ---
 
-Cats are cute<br>
-I love programming <3<br>
-state of construction<br>
+Beautiful New day<br>
+You sit on the porch reading<br>
+I sit in your book<br>
