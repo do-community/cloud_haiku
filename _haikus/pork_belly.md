@@ -5,5 +5,5 @@ author: Toanh
 ---
 
 Pork belly yummy<br>
-Cooked roasted fried stewed bbq'd today
-All can enjoy now
+Cooked roasted deep-fried stewed bbq oh<br>
+All can enjoy now<br>
