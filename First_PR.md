@@ -1,7 +1,7 @@
 ---
-layout: haiku <br>
-title: Anjay Haiku <br>
-Author: Hekel Anjay <br>
+layout: haiku
+title: Anjay Haiku
+Author: Hekel Anjay
 ---
 
 No System Is Save <br>
