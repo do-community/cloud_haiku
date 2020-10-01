@@ -5,5 +5,5 @@ author: Suharu
 ---
 
 With the sword of code<br>
-Conquer the the lord of bugs<br>
-Save the world of bit<br>
+Conquer the lord of the bugs<br>
+Save the world of bits<br>
