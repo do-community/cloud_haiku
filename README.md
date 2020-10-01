@@ -30,6 +30,8 @@ author:
 
 Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
 
+**Note**: We are using Travis CI as a test suite to help us automatically test markdown files. While maintainers sometimes need to override the test suite, disabling it as a contributor will cause extra work for maintainers. Please keep your markdown heading to be exactly as is described above in order to ensure that your pull request will be merged.
+
 Under this heading, you'll put your haiku.
 
 ### Writing a Haiku
@@ -44,12 +46,12 @@ Haikus are a traditional form of Japanese poetry. They are made up of three line
 
 *Syllables* are a unit of organization for speech sounds that typically include a vowel. For example, the word **computer** is composed of three syllables: **com** - **put** - **er**.
 
-Let's look at an example haiku from this repository:
+Let's consider an example haiku from this repository:
 
 ```
-Distributed cloud  
-Like the octopuses' minds  
-Across the network  
+Distributed cloud  <br>
+Like the octopuses' minds  <br>
+Across the network  <br>
 ```
 
 Above, we see that the haiku is composed of 3 lines.
@@ -68,7 +70,7 @@ Many forms of poetry have specific aesthetic rules to follow. This challenge mak
 
 ### Line Breaks
 
-To ensure that there are proper line breaks, you will need to put two blank spaces after each line of your haiku. Alternately, you can use HTML line breaks, like so:
+To ensure that there are proper line breaks, please use HTML line breaks, like so:
 
 ```markdown
 ---
@@ -84,7 +86,7 @@ Across the network<br>
 
 ### An Example
 
-For example, Sammy the Shark's haiku is called "Octopus Cloud," and they wrote their name as just "Sammy." Sammy named their file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
+For example, Sammy the Shark's haiku is called "Octopus Cloud", and they wrote their name as just "Sammy". Sammy named their file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
 
 ```markdown
 ---
@@ -93,9 +95,9 @@ title: Octopus Cloud
 author: Sammy
 ---
 
-Distributed cloud  
-Like the octopuses' minds  
-Across the network  
+Distributed cloud<br>
+Like the octopuses' minds<br>
+Across the network<br>
 ```
 
 ### Testing
