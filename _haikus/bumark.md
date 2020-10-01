@@ -5,5 +5,5 @@ author: mert-saadet
 ---
 
 All day awaiting <br>
-Doing absolute nothing <br>
+Doing an absolute nothing <br>
 Whole day reporting <br>
