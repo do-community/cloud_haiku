@@ -5,5 +5,5 @@ author: twentyonedot
 ---
 
 Free tingle online<br>
-Shall awestruck hacktoberfest<br>
+Shall awestruck hacktober<br>
 Above the github<br>
