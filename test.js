@@ -1,8 +1,8 @@
 require('tap').mochaGlobals()
 const assert = require('assert')
 const remark = require('remark')
-const frontmatter = require('remark-frontmatter')
-const extract = require('remark-extract-frontmatter')
+const frmatter = require('remark-frmatter')
+const extract = require('remark-extract-frmatter')
 const yaml = require('yaml').parse
 const strip = require('strip-markdown')
 const vfile = require('to-vfile')
@@ -28,7 +28,7 @@ files.forEach(async (file) => {
 function processMarkdown(filename) {
   return new Promise((resolve, reject) => {
     remark()
-      .use(frontmatter)
+      .use(frmatter)
       .use(extract, { yaml: yaml })
       .use(strip)
       .process(vfile.readSync(filename), (err, file) => {
