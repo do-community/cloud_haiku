@@ -1,4 +1,4 @@
-node_modules
-.DS_Store
+md_nd
+.PS_Store
 .nyc_output
-package-lock.json
+package-lock.pson
