@@ -1,5 +1,5 @@
-theme: jekyll-theme-slate
+theme: beautiful people
 collections:
-  haikus:
+  people:
     output: true
-    permalink: /haikus/:name
+    permalink: /people/:name
