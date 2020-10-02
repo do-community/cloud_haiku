@@ -2,6 +2,8 @@
 
 Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website.
 
+**Do to the popularity to this repository during the celebration of Hacktoberfest, please respect the time it takes for the maintainers to review and merge pull requests.**
+
 ## [Haikus](https://do-community.github.io/cloud_haiku/haikus/)
 
 All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/haikus/)** are available via the [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory.
@@ -29,6 +31,8 @@ author:
 ```
 
 Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
+
+Please do not add any other lines to the above format.
 
 **Note**: We are using Travis CI as a test suite to help us automatically test markdown files. While maintainers sometimes need to override the test suite, disabling it as a contributor will cause extra work for maintainers. Please keep your markdown heading to be exactly as is described above in order to ensure that your pull request will be merged.
 
