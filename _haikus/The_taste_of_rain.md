@@ -1,9 +1,9 @@
 ---
 layout: Haiku
 title: The taste of rain
-author: Jack Kerouac
+author: Aryan 
 ---
 
-The taste<br>
-Of rain<br>
-Why kneel?<br>
+Calm as a river<br>
+Tranquility in my heart<br>
+Blue summer skies reign.<br>
