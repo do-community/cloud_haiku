@@ -2,6 +2,7 @@
 layout: haiku
 title: Baked Tater
 author: kushski
+test: false
 ---
 
 Brown spud from the earth <br>
