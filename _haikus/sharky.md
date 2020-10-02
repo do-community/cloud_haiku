@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Sharky, a Haiku
-author: Lyn Muldrow
+author: Kevin Sengsay
 ---
 
 Learning to code is<br>
