@@ -1,5 +1,5 @@
 ---
-layout: Haiku
+layout: haiku
 title: The taste of rain
 author: Aryan 
 ---
