@@ -4,6 +4,6 @@ title: React praise
 author: OpenTechConsult
 ---
 
-Want to be Good at React<br>
-React is everywhere<br>
-Coding fiercely<br>
+React is all I want<br>
+React is everywhere you look at now<br>
+Coding fiercely to Master React<br>
