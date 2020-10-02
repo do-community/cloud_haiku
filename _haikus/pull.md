@@ -5,6 +5,6 @@ author: Satyam
 
 ---
 
-Learning is a treasure,
-that will follow its owner. <br>
-Pull and get work done<br>
+Cloud is very cool <br>
+I'm learning how to do stuff <br>
+magical for sure <br>
