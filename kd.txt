@@ -1,0 +1,1 @@
+It was just created to check the "git add" command.
