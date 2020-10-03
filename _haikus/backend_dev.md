@@ -5,5 +5,5 @@ author: Ketan
 ---
 
 Backend Development<br>
-Skill powers app<br>
+Skill powers apps<br>
 Modestly, without fanfare<br>
