@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title:language_haiku
-author:vmgmreddy
+title: language_haiku
+author: vmgmreddy
 ---
 
 Python Java perl<br>
