@@ -1,9 +1,11 @@
 ---
 layout: haiku
-title: Changing World
+title: My Soulmate
 author: Adi
 ---
 
-The World changes <br>
-The People Changes <br>
-Then me changes.
+
+I still say I Love You,<br>
+But now there's no reply.<br>
+I always feel your presence<br>
+As if you never left my side.
