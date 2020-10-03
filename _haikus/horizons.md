@@ -6,4 +6,4 @@ author: zzfima
 
 horizons is no start <br>
 there is no end <br>
-observe it <br>
+observe it now<br>
