@@ -4,6 +4,6 @@ title: horizons
 author: zzfima
 ---
 
-horizons is no start <br>
-there is no end can see <br>
-observe it ...
+Horizons no start
+there are no ends you can see
+observe before ends
