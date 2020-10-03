@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: The cube in the heart
-author: A Bird Qoute
+author: Patron
 ---
 
 The pain of one side<br>
