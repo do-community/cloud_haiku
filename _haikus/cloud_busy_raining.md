@@ -4,6 +4,6 @@ title: Cloud Busy Raining
 author: Ahmad
 ---
 
-when it rains<br>
+every time it rains<br>
 my internet disconnects<br>
-as cloud is busy raining<br>
+as cloud is busy<br>
