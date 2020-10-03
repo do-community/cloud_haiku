@@ -11,3 +11,7 @@ Ocean is blue, and always blue. I don't know why it must be blue. But trust me, 
 ## Second Part
 
 This is the second part of commit.
+
+### Thir Part
+
+This is the third part of commit.
