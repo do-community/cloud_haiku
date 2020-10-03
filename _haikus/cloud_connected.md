@@ -2,6 +2,7 @@
 layout: haiku
 title: Cloud Connected
 author: Okhai
+test: false
 ---
 
 The functioning world <br>
