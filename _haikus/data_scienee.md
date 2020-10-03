@@ -1,11 +1,9 @@
 ---
 layout: haiku
-title: My Soulmate
-author: Adi
+title: Destiny
+author: Ralex
 ---
 
-
-I still say I Love You,<br>
-But now there's no reply.<br>
-I always feel your presence<br>
-As if you never left my side.
+To the moon we go<br> 
+Horrid hive will never rest<br>
+The moon is haunted<br>
