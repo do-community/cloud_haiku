@@ -1,4 +1,9 @@
-task: Learning hacktoberfest
+---
+layout: haiku
+title: First Contribution
 author: Mayank Maheshwari
+---
 
-Doing my first contribution
+Thanks cloud_haiku<br>
+For helping to contributing<br>
+my first PR<br>
