@@ -5,5 +5,5 @@ author: dportuesi
 ---
 
 Need some cloud storage <br>
-Then use an s3 bucket <br>
+Then use an s three bucket <br>
 its a piece of cake <br>
