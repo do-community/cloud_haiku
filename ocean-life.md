@@ -4,6 +4,6 @@ title: Ocean Voyage
 Author: Keegan 
 ---
 
-An ocean voyage  
+change over in Ocean Voyage  
 As waves break over the bow  
 the sea welcomes me  
