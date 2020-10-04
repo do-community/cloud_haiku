@@ -1,6 +1,6 @@
 ---
 layout: haiku
-tilte: react
+title: react
 author: Deepika Singh
 ---
 
