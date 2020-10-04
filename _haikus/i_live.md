@@ -4,5 +4,8 @@ title: I Love Phuket
 author: naruepanart
 ---
 
-- Do you live in Phuket? 
-Yes, I live in Phuket.
+With clear blue sky outside there<br>
+With Open And Planning Guide<br>	
+the cloud, the future <br>
+I am very smart<br>
+the world so proud for you<br>
