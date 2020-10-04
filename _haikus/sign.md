@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: sign
+title: signs
 author: polarblu
 ---
 
