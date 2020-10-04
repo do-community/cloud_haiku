@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: rudy, a anonymous
-author: Rudra Pratap
+title: Code to Win
+author: Rudra
 ---
 
 Learning coding is<br>
-just like playing games...<br>
-...but the game is developed by you.<br>
+not like remembering code<br>
+It's like build new codes<br>
