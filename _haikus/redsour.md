@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Open Source 
+title: Code, by sour 
 author: Sourabh
 ---
 
-Developer using<br>
+...Developer using<br>
 original source code<br>
-Use case in today's world<br>
+Use case in today's world...<br>
