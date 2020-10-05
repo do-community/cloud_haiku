@@ -4,6 +4,6 @@ title: Code, by sour
 author: Sourabh
 ---
 
-...Developer using<br>
-original source code<br>
-Use case in today's world...<br>
+Learning to code is<br>
+Like a shark to barren land...<br>
+...firehose to face<br>
