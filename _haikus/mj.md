@@ -1,9 +1,9 @@
 ---
 layout: haiku
 title: mj_stark
-author: Akshita_Sharma
+author: mrityunjay_stark
 ---
 
-Pleasent aurora<br>
+Pleasent Weather<br>
 A greater, flamingo flies<br>
-because of the spouse
+because of the sky
