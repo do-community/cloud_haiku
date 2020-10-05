@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Squid, a Haiku
-author: Nátaly Enne
+author: nataly-enne
 ---
 
 Programming is <br>
