@@ -2,6 +2,7 @@
 layout: haiku
 title: Life is a gift
 author: D Schaafsma
+test: false
 ---
 
 Seeing the clear skies<br>
