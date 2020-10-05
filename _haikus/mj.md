@@ -4,6 +4,6 @@ title: mj_stark
 author: mrityunjay_stark
 ---
 
-Pleasent Weather<br>
+Pleasent aurora<br>
 A greater, flamingo flies<br>
-because of the sky
+because of the spouse
