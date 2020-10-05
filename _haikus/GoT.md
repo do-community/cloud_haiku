@@ -6,4 +6,4 @@ author: KWGrimmaar
 
 Game of Thrones is over<br>
 but no one will rewatch it<br>
-thanks D and D<br>
+thanks to D and D<br>
