@@ -5,5 +5,5 @@ author: Felipe K.
 ---
 
 A daily coding
-all the things I need to deliver
+all the things to deliver
 best to be prepared
