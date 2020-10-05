@@ -4,6 +4,6 @@ title: Squid, a Haiku
 author: nataly-enne
 ---
 
-Programming is <br>
-Like a squid on the ocean...<br>
-Always swimming with emotion...<br>
+Pursued by a fish,<br>
+He squirts a cloud of ink to<br>
+Conceal his escape.<br>
