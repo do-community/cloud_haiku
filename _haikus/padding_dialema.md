@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: padding_dialema, a Haiku
-authur: Ishmeet Bindra
+author: Ishmeet Bindra
 ---
 
 padding in python<br>
