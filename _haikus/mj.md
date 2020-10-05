@@ -1,9 +1,9 @@
 ---
-layout: mjstark
-title: mj, a learner
-author: stark
+layout: haiku
+title: mj_stark
+author: Akshita_Sharma
 ---
 
-Everyone should learn<br>
-to code.<br>
-it gives an insight about working of your idea.<br>
+Pleasent aurora<br>
+A greater, flamingo flies<br>
+because of the spouse
