@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Serena
-author: Nono
+author: Cassio
 ---
 Barco a passar<br>
 pessoas na areia<br>
