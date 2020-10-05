@@ -4,6 +4,6 @@ title: The old pond
 author: BrentZ
 ---
 
-Oh, old pond,<br>
-A frog jumps of the side<br>
+Oh, my old pond,<br>
+A lazy frog jumps of the side<br>
 the sound of water.<br>
