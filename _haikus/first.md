@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: My first
+title: first
 author: tanvimehta
 ---
 
