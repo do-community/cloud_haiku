@@ -6,4 +6,4 @@ author: Ashish
 
 Learning to code is<br>
 fun with git<br>
-third line for Haiky<br>
+third line for Haiky.<br>
