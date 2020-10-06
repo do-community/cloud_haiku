@@ -4,8 +4,8 @@ title: WP Discovered
 author: Craig G
 ---
 
-Look and see WP</br>
-Is that PHP I see?</br>
+Look and I see WP</br>
+Is that PHP I give to thee?</br>
 Yes and it is free!</br>
 
 
