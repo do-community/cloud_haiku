@@ -1,8 +1,10 @@
 ---
 layout: haiku
-title: Let's try haiku
+title: Old Pond
 author: Sandeep Srivastava
 ---
-An old silent pond...
-A frog jumps into the pond,
-splash! Silence again.
+
+
+Old pond<br>
+a frog jumps<br>
+the sound of water<br>
