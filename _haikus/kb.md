@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Sharky, a Haiku
-author: Lyn Muldrow
+title: KB, a Haiku
+author: Kaustav Banerjee
 ---
 
-Learning to write programs stretches your mind,<br>
-and helps you think better, <br>
-creates a way of thinking about things that I think is helpful in all domains.
+Learning to code is<br>
+Like a shark to barren land...<br>
+...firehose to face<br>
