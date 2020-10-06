@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title:Quality Haiku
-author:Ethan
+title: Quality Haiku
+author: Ethan
 ---
 
 A software voyage<br>
