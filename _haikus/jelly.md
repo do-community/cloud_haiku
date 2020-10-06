@@ -4,7 +4,6 @@ title: Jelly, a haiku
 author: Lypsa Shah
 ---
 
-Tell the sun there <br>
-will be no darkness anymore <br>
-is the people's lives <br>
-for the moon has died <br>
+day wafts with fragrance <br>
+does it matter which flower <br>
+blossoms everywhere <br>
