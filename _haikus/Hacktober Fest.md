@@ -7,3 +7,4 @@ author: PatronHub
 During Hacktober<br>
 I discovered HaikuCloud<br>
 Published this haiku<br>
+Thank you!<br>
