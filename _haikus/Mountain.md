@@ -5,5 +5,5 @@ author: Ashish2Dev
 ---
 
 Mountains are tall<br>
-trees are green<br>
-coding with git is fun !!!!<br>
+trees are green and sea is blue<br>
+coding is fun<br>
