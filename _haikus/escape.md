@@ -4,6 +4,6 @@ title : escape
 author: diegofilbal
 ---
 
-I wanted to escape from myself <br>
-But every place I would go <br>
-I found me there... <br>
+I wanted a escape <br>
+A escape from myself but then <br>
+I would found me there... <br>
