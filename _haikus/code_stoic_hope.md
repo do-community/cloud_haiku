@@ -4,6 +4,6 @@ title: A Stoic Coding Hope
 author: Felipe K.
 ---
 
-A daily coding
-all the things to deliver
-best to be prepared
+A daily coding<br>
+All the things to deliver<br>
+Best to be prepared<br>
