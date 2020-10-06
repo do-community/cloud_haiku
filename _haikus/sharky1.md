@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Study, a Haiku
-author: Ashish
+author: Ashish2Dev
 ---
 
 Learning to code is<br>
