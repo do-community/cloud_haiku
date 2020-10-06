@@ -1,9 +1,9 @@
 --- 
 layout: haiku
-title: Code On Cloud
-author: Pradyumna 
+title: code on cloud
+author: pradyumna 
 --- 
 
-Wanted to code on cloud<br> 
-problem was<br> 
-couldn't find a chair to sit on<br>
+Want to code on cloud<br>
+problem with that is I can't<br>
+find a chair to sit<br>
