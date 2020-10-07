@@ -6,5 +6,5 @@ test: false
 ---
 
 I am Jhonatan<br>
-trying get the hapiness<br>
+trying get the happiness<br>
 with a pull request<br>
