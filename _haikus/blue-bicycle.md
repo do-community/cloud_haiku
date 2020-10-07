@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: blue-bycycle
+title: blue-bicycle
 author: rishabgarg100
 test: false
 ---
