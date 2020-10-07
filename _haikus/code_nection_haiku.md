@@ -1,5 +1,5 @@
 ---
-layout: Haiku
+layout: haiku
 title: Code-nection, a Haiku
 author: G.W. Miller II
 ---
