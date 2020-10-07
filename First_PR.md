@@ -5,5 +5,5 @@ Author: Hekel Anjay
 ---
 
 No System Is Save <br>
-We Are Onanymous We <br>
+We Are Anonymous We <br>
 Are Region, Expect <br>
