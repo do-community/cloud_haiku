@@ -5,5 +5,5 @@ author: Rajvijay
 ---
 
 beauty of doggos  
-puppers,and pupperinos  
+puppers, and pupperinos  
 they mlem, blep, blop, bork.  
