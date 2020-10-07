@@ -5,5 +5,5 @@ author: diisophiia
 ---
 
 a cat liked to code<br>
-because he wanted to leave a mark<br>
-of his paw in the cloud<br>
+he wanted to leave a mark<br>
+his paw in the cloud<br>
