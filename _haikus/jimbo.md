@@ -5,5 +5,5 @@ author: Cash Money
 ---
 
 slapstick comedy<br>
-complete anonimity<br>
+complete anonymity<br>
 not me, probably<br>
