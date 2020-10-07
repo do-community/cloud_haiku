@@ -4,6 +4,6 @@ title: Find Yourself
 author: Sarah Shaik
 ---
 
-May be, sometimes<br>
-Break from giving too much<br>
-And find yourself<br>
+May be just sometimes<br>
+Take breaks from giving too much<br>
+So you find yourself<br>
