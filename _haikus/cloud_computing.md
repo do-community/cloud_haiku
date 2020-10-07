@@ -5,5 +5,5 @@ author: HoangDQ
 ---
 
 Cloud computing is<br>
-delivery of computing services<br>
-Storage and Processing power over the Internet<br>
+The Storage and Processing<br>
+over Internet<br>
