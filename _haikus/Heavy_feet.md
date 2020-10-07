@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Heavyest feet
+title: Heaviest feet
 author: Vendict
 ---
 
