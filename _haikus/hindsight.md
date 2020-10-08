@@ -6,4 +6,4 @@ author: Nyx
 
 If what I know now<br>
 I only somehow knew then<br>
-I wouldn't have been here<br>
+I would not be here<br>
