@@ -18,7 +18,7 @@ files.forEach(async(file) => {
     if (!blockList.includes(file)) {
         const [text, meta] = await processMarkdown(dir + file)
         if (meta.test !== false) {
-            validateHaiku(obocloud.md, lines, meta)
+            validateHaiku(file, lines, meta)
         }
     }
 })
