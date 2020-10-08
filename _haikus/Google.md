@@ -5,5 +5,5 @@ author: Beckett
 ---
 
 Google owns our lives<br>
-on insidious servers;<br>
-and they will not stop<br>
+on insidious servers<br>
+poor, misused servers<br>
