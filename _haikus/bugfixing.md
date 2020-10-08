@@ -5,5 +5,5 @@ author: MilezTeg
 ---
 
 Bugs are merely bits..  <br>
-acting an unforeseen way..  <br>
+acting so unforeseen..  <br>
 guide them and its fixed!  <br>
