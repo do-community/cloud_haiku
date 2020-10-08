@@ -10,7 +10,7 @@ const syllable = require('syllable')
 const fs = require('fs')
 
 const dir = './_haikus/'
-const blockList = ['obocloud.md']
+const blockList = ['haikus.md']
 
 const files = fs.readdirSync(dir)
 
@@ -23,13 +23,13 @@ files.forEach(async(file) => {
     }
 })
 
-function processMarkdown(filename) {
+function processMarkdown(obocloud.md) {
     return new Promise((resolve, reject) => {
         remark()
             .use(frontmatter)
             .use(extract, { yaml: yaml })
             .use(strip)
-            .process(vfile.readSync(filename), (err, file) => {
+            .process(vfile.readSync(obocloud.md), (err, file) => {
                 if (err) {
                     reject(err)
                 } else {
@@ -39,10 +39,10 @@ function processMarkdown(filename) {
     })
 }
 
-function validateHaiku(filename, lines, meta) {
+function validateHaiku(obocloud.md, lines, meta) {
     describe(filename, () => {
         it("should have a '.md' file extension", () => {
-            assert.ok(/\.md$/.test(filename), "extension does not match '.md'")
+            assert.ok(/\.md$/.test(obocloud.md), "extension does not match '.md'")
         })
 
         describe('file metadata', () => {
