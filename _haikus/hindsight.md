@@ -1,3 +1,4 @@
+---
 layout: haiku
 title: Cloud Hindsight
 author: Nyx
