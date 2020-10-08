@@ -4,6 +4,6 @@ title: Google
 author: Beckett
 ---
 
-Google is evil
-and owns all of our data
-and we are all doomed
+Google is evil<br>
+and owns all of our data<br>
+and we are all doomed<br>
