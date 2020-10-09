@@ -1,6 +1,6 @@
 ---
 layout: haiku
-tittle: dream about Azure
+title: dream about Azure
 author: IRusio
 ---
 
