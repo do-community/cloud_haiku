@@ -4,6 +4,6 @@ title: Oxygen
 author: Mallesham
 ---
 
-Most of me is you.<br>
-strive for independence,<br>
-fail with every breath.<br>
+Water molecules<br>
+have two hydrogen atoms<br>
+and one oxygen<br>
