@@ -2,15 +2,19 @@
 layout: default
 ---
 
-  <h2>
-    <a href="{{ haiku.url }}">
-      {{ page.title }}
-    </a>
-  </h2>
+<h2>
+  <a href="{{ haiku.url }}"> {{ page.title }} </a>
+</h2>
 
-  <font size="2"><em> By {{ page.author }}</em></font>
+<font size="2"><em> By {{ page.author }}</em></font>
+<p>hello~~~</p>
+{{ content }}
 
-  {{ content }}
-
-  <hr>
-  <p><font size="2"><em>Return to <b><a href="{{site.baseurl}}/haikus/">Haikus</a></b></em>.</font></p>
+<hr />
+<p>
+  <font size="2"
+    ><em
+      >Return to <b><a href="{{site.baseurl}}/haikus/">Haikus</a></b></em
+    >.</font
+  >
+</p>
