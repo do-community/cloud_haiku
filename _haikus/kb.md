@@ -4,6 +4,6 @@ title: KB, a Haiku
 author: Kaustav Banerjee
 ---
 
-Learning to code is<br>
-Like a shark to barren land...<br>
-...firehose to face<br>
+An old silent pond...<br>
+A frog jumps into the pond,<br>
+splash! Silence again.<br>
