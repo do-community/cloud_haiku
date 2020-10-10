@@ -68,6 +68,7 @@ Il primo è di 5 sillabe, il secondo di 7 sillabe, e il terzo di nuovo di 5, seg
 Dis-trib-ut-ed cloud  # 5 sillabe 
 Like the oc-to-pus-es' minds  # 7 sillabe  
 A-cross the net-work  # 5 sillabe
+```
 
 Per verificare che tu stia usando il numero giusto di sillabe puoi utilizzare il tool [http://www.haikusyllablecounter.com](http://www.haikusyllablecounter.com).
 
