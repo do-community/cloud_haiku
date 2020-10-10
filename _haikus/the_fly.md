@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: The Fly, a Haiku
+title: The Fly
 author: Taylor Johnston
 ---
 
