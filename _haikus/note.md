@@ -1,10 +1,9 @@
 ---
 layout: haiku
-title: Note
-author: Jayakrishna
+title: note
+author: jayakrishna
 ---
 
-
-note your daily tasks<br>
-make them in time with alerts<br>
-Be happpy and earn rewards<br>
+Distributed cloud<br>
+Like the octopuses' minds<br>
+Across the network<br>
