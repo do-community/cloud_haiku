@@ -76,7 +76,7 @@ Molte forme di poesia hanno le proprie regole da seguire. Questa sfida rende la 
 
 ### Fine riga
 
-Per essere sicuro/a che le righe vengano divise, usa le "line breaks" del linguaggio HTML (<br>) come segue:
+Per essere sicuro/a che le righe vengano divise, usa le "line breaks" del linguaggio HTML come segue:
 
 ```markdown
 ---
