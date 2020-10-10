@@ -6,4 +6,4 @@ author: patrick
 
 What a cutting edge<br>
 Enable Laravel Queue<br>
-The powerful Forge<br>
+Powerful Forge<br>
