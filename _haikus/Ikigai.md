@@ -6,4 +6,4 @@ author: Sagar Monga
 
 What is your purpose?<br>
 My deepest secrets and hopes<br>
-IKIGAI<br>
+For it brings content<br>
