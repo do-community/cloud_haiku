@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title: Coding
-author: afmcdnL
+title: Let's code
+author: Paula Zaidel
 ---
 
 Coding is for fun<br>
