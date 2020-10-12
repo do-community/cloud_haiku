@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: yingyangtongxue_Haiku
-author: Natsume Soseki
+title: Coding a new World
+author: Daniel Nunes Monteiro
 ---
 
-Plum flower temple:<br>
-Voices rise<br>
-From the foothills<br>
+Computer Science<br>
+Transform ideas in code<br>
+And build a new world<br>
