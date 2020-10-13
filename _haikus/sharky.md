@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Sharky, a Haiku
+title: Sharky, a Haiku!
 author: Lyn Muldrow
 ---
 
