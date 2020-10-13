@@ -1,10 +1,9 @@
 ---
 layout: haiku
 title: coding
-author: Musavveer Rehaman
-test: false
+author: RujikornN (Bossruji)
 ---
 
- It's night 2 AM<br>
- Working on a new project<br>
- That's incredible<br>
+It's night 2 AM as well<br>
+Working on a new project<br>
+That's incredible<br>
