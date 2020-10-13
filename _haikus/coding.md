@@ -2,7 +2,6 @@
 layout: haiku
 title: coding
 author: RujikornN
-test: false
 ---
 
 It's night 2 AM<br>
