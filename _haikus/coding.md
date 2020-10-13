@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: coding in October
+title: coding
 author: RujikornN
 ---
 
