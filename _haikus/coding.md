@@ -1,10 +1,9 @@
 ---
 layout: haiku
-title: coding
-author: Musavveer Rehaman
-test: false
+title: coding in October
+author: RujikornN
 ---
 
- It's night 2 AM<br>
- Working on a new project<br>
- That's incredible<br>
+It's night 2 AM<br>
+Working on a new project<br>
+That's incredible<br>
