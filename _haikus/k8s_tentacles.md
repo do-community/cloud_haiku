@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Octocat k8s
+title: K8s tentacles
 author: BerciTheBeast
 ---
 
-Kubernetes pods<br>
+Orchestrated pods<br>
 Like long squirming tentacles<br>
 Rise and fall all day<br>
