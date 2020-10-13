@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Never Imaginary
-auther: tuna
+author: tuna
 ---
 
 cloud we cannot see <br>
