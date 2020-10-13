@@ -4,6 +4,6 @@ title: coding in October
 author: RujikornN
 ---
 
-It's night 2 AM<br>
-Working on a new project<br>
-That's incredible<br>
+It's night with two o'clock<br>
+Currently working on a project<br>
+That's awesome !<br>
