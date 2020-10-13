@@ -6,5 +6,5 @@ test: false
 ---
 
 Python can byte me
-Pythonista wanna be
-Repetition now!
+Pythonista wannabe
+Repetition right now!
