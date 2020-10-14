@@ -4,6 +4,6 @@ title: Flower Color
 author: Dimas Nurhilman
 ---
 
-Roses are blue<br>
-Violets are red<br>
-I need to rest in my bed
+Cloud look like flowers<br>
+Night sky look like violets<br>
+It's like sky garden<br>
