@@ -2,6 +2,7 @@
 layout: haiku
 title: corona
 author: carl padilla
+test: false
 ---
 
 coronavirus<br>
