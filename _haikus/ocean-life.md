@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Ocean Voyage
-Author: Keegan 
+author: Keegan 
 ---
 
 An ocean voyage  
