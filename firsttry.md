@@ -1,1 +1,0 @@
-This is the first pull request I'm attempting for Hactoberfest.
