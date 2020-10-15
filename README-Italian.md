@@ -43,7 +43,7 @@ Al di sotto della intestazione scriverai il tuo haiku.
 
 Nello spirito open source, ci piacerebbe che tu scrivessi un haiku originale piuttosto che inviarne uno scritto da altri.
 
-Il tuo haiku dovrà essere difficile ma divertente da scrivere. Dovrai assicurarti che il tuo haiku rispecchi le linee guida di questo tipo di poesia che troverai qui sotto.
+Il tuo haiku dovrà essere divertente da scrivere ma allo stesso tempo troverai il processo di scrittura molto stimolante. Dovrai assicurarti che il tuo haiku rispecchi le linee guida di questo tipo di poesia che troverai qui sotto.
 
 ### Haiku Format
 
@@ -52,12 +52,12 @@ Consistono di tre versi e 17 sillabe totali che seguono lo schema di sillabe 5-7
 
 Le *Sillabe* sono un'unità organizzativa delle parole che di solito contengono una vocale.
 Per esempio, la parola **telefono** è composta di quattro sillabe: **te** - **le** - **fo** - **no**.
-Consideriamo un esempio di haiku in Inglese preso da questa repository...
+Consideriamo un esempio di haiku
 
 ```
-Distributed cloud  <br>
-Like the octopuses' minds  <br>
-Across the network  <br>
+La nuda foglia  <br>
+dall'occhio concupita  <br>
+sentiva caldo  <br>
 ```
 
 Notiamo che l'haiku è composto da tre versi.
@@ -65,9 +65,9 @@ Notiamo che l'haiku è composto da tre versi.
 Il primo è di 5 sillabe, il secondo di 7 sillabe, e il terzo di nuovo di 5, seguendo quindi lo schema proposto.
 
 ```
-Dis-trib-ut-ed cloud  # 5 sillabe 
-Like the oc-to-pus-es' minds  # 7 sillabe  
-A-cross the net-work  # 5 sillabe
+La-nu-da-fo-glia  # 5 sillabe 
+Dall'-oc-chio-con-cu-pi-ta  # 7 sillabe  
+Sen-ti-va-cal-do  # 5 sillabe
 ```
 
 Per verificare che tu stia usando il numero giusto di sillabe puoi utilizzare il tool [http://www.haikusyllablecounter.com](http://www.haikusyllablecounter.com).
@@ -92,7 +92,7 @@ Across the network<br>
 
 ### Esempio
 
-Per esempio, l'haiku di Sammy the Shark è chiamato "Octopus Cloud", e lui ha scritto il suo nome come "Sammy". Sammy ha rinominato il suo file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
+Per esempio, l'haiku di Sammy lo Squalo è chiamato "Octopus Cloud", e lui ha scritto il suo nome come "Sammy". Sammy ha rinominato il suo file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
 
 ```markdown
 ---
