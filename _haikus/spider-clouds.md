@@ -1,4 +1,3 @@
-
 ---
 layout: haiku
 title: Spider Clouds
