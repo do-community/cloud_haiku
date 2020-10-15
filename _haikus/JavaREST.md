@@ -1,7 +1,7 @@
 layout 	title 	author
 haiku
 	
-Java
+JavaREST
 	
 SRJ
 
