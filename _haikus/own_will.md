@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Respect, a Haiku
+title: Own will, a Haiku
 author: BATIKAN BORA ORMANCI
 ---
 
