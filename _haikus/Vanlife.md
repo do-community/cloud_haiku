@@ -5,5 +5,5 @@ author: Anoop
 ---
 
 I never ever<br>
-understimate bandwidth<br>
+understimate the bandwidth<br>
 of van full of tapes<br>
