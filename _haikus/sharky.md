@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Sharky, a Haiku
-author: Lyn Muldrow
+author: Zedd0x1111
 ---
 
 Learning to code is<br>
