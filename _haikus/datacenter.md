@@ -2,6 +2,7 @@
 layout: haiku
 title: datacenter
 author: zaltsman
+test: false
 ---
 
 metal oasis <br>
