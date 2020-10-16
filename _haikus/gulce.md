@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Gulce
-author:Cicek
+author: Cicek
 ---
 
 Gulce is the name<br>
