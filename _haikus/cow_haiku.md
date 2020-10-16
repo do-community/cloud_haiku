@@ -5,4 +5,4 @@ author: Sampath Narayanan
 ---
 Snow-clad timberland<br>
 A sacred, scaly cow flaps<br>
-whilst watching the deer<br>
+whilst watching the deer run<br>
