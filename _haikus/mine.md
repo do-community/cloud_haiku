@@ -5,5 +5,5 @@ author: Kevin Ashworth
 ---
 
 “Give me what I want<br>
-&nbsp;and who cares about those guys.”<br>
-&nbsp;—so many voters<br>
+and who cares about those guys.”<br>
+—so many voters<br>
