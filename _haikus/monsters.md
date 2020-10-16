@@ -5,5 +5,5 @@ author: PriyaShrinithi
 ---
 
 Scared and trembling  <br>
-I stand against the monsters of Nile <br>
-shielding to defend
+stand against Nile monsters <br>
+shielding to defend <br>
