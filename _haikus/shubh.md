@@ -6,4 +6,4 @@ author: Shubham
 
 Haiku is not like<br>
 a poem rather it is a<br>
-form of poetry.
+form of good poetry<br>
