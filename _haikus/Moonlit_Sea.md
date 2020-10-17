@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Fishing Boat on Moonlit Sea
-author: Koho Shoda Copyright by Bossruji
+author: devruji
 ---
 
 The moon almost full<br>
