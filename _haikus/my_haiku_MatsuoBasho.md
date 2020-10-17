@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: 3 Lines
+title: Matsuo Basho
 author: pheiduck
 ---
 
