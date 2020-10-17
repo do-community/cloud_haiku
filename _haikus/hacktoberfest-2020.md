@@ -5,8 +5,6 @@ Author: Orang Ganteng
 ---
 
 On Hacktoberfest 2020
-
 I discovered HaikuCloud
-
 **SwagHunter**
 
