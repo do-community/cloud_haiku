@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: My Code
+title: My code
 author: thatcopy
 ---
 
