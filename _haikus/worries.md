@@ -4,6 +4,6 @@ title: Worries
 author: Marco
 ---
 
-Just started writing<br>
-Worries coming by<br>
-Feels like something I missed?<br>
+Data in the cloud<br>
+Privacy out of my hand<br>
+I am defenseless<br>
