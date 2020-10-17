@@ -4,6 +4,6 @@ title: alchemy poems
 author: Nauval Shidqi
 ---
 
-Learn from flower and leaf<br>
-That beauty color every drop they hold<br>
-Change the lifeless of grief<br>
+javascript is a good<br>
+I have a great design skill<br>
+longlife learner<br>
