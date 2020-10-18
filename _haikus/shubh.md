@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Good Haiku Defintion
+title: Good Haiku Definition
 author: Shubham
 ---
 
