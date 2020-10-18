@@ -1,9 +1,9 @@
 ---
 layout: haiku
 title: Pikachu
-Author: Orang Ganteng
+author: Orang Ganteng
 ---
 
-Pikachu is cool
-He is the coolest of all
-i love pikachu
+Pikachu is cool <br>
+He is the coolest of all <br>
+i love pikachu <br>
