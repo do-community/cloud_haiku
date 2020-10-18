@@ -1,6 +1,6 @@
 ---
-layout : haiku
-title : Limit haiku
+layout : Haiku
+title : Limit, a haiku
 author : Tejali Gangane
 ---
 
