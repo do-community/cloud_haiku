@@ -6,4 +6,4 @@ author: albertviilik
 
 A drop in the sea<br>
 Of cloud computing options<br>
-Makes ripples emerge<br>
+Ripples come running<br>
