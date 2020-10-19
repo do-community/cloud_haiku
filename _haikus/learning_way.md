@@ -4,6 +4,6 @@ title: Learning
 author: lacrosse91
 ---
 
-Take the long way<br>
-It's the best shortcut<br>
-Learn this for learning<br>
+Take a long long way<br>
+It is the best shortcut path way<br>
+Learn this thought for learning<br>
