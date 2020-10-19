@@ -6,4 +6,4 @@ author: James
 
 It's a busy day.<br>
 Emails flying to and fro.<br>
-Can't want to go play.<br>
+Can't wait to go play.<br>
