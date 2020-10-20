@@ -1,0 +1,151 @@
+#include<stdio.h>
+int tuple(int (*ptr)[5], int, int,int (*tuple)[3]);
+void transpose(int (*t)[3], int k);
+void sum(int (*t1)[3],int (*t2)[3],int ,int );
+int tupleA[10][3], k1 = 0;
+int tupleB[10][3], k2 = 0;
+void main()
+{
+    int a[5][5], b[5][5],m,n,p,q;
+  
+
+    printf("\nEnter the no.of rows and coloumns of matrix A : ");
+    scanf("%d%d", &m, &n);
+    printf("\nEnter matrix A: ");
+    for (int i = 0; i < m;i++){
+        for (int j = 0; j < n;j++){
+            scanf("%d", &a[i][j]);
+        }
+    }
+    
+      printf("\nEnter the no.of rows and coloumns of matrix B : ");
+        scanf("%d%d", &p, &q);
+    printf("\nEnter matrix B: ");
+    for (int i = 0; i < p;i++){
+        for (int j = 0; j < q;j++){
+            scanf("%d", &b[i][j]);
+        }
+    }
+
+  printf("\nTuple A: ");
+   k1=tuple(a, m, n,tupleA);
+   printf("\nTuple B: ");
+   k2 = tuple(b, p, q,tupleB);
+   
+
+printf("\nTranspose of tuple A: ");
+    transpose(tupleA,k1);
+ printf("\nTranspose of tuple B: ");   
+    transpose(tupleB, k2);
+
+if(m!=p||n!=q){
+    printf("\nMatrices cannot be added!");
+}else{
+    sum(tupleA, tupleB, k1, k2);
+}
+
+}
+
+int tuple(int (*ptr)[5], int r, int s,int (*tuple)[3]){
+    int k = 0;
+    for (int i = 0; i < r;i++){
+        for (int j = 0; j < s;j++){
+if((*(*(ptr+i)+j))!=0){
+    *(*(tuple+k)+0) = i;
+    *(*(tuple+k)+1) = j;
+    *(*(tuple+k)+2)= *(*(ptr+i)+j);
+    k++;
+}
+        }
+    }
+    
+    for (int i = 0; i < k;i++){
+        printf("\n");
+        for (int j = 0; j < 3;j++){
+            printf("%d  ", *(*(tuple+i)+j));
+        }
+    }
+    return k;
+}
+
+void transpose(int (*t)[3],int k){
+    int(*trans)[3],arr[10][3];
+    trans = arr;
+
+    for (int i = 0; i < k; i++)
+    {
+        *(*(trans + i) + 0) = *(*(t + i) + 1);
+        *(*(trans + i) + 1) = *(*(t + i) + 0);
+        *(*(trans + i) + 2) = *(*(t + i) + 2);
+        
+        }
+     
+    for (int i = 0; i < k;i++){
+        printf("\n");
+        for (int j = 0; j < 3;j++){
+            printf("%d  ", *(*(trans + i) + j));
+        }
+    }
+}
+
+void sum(int (*t1)[3],int (*t2)[3],int n1,int n2){
+    int (*tSum)[3] ,sum[10][3], k = 0;
+    tSum = sum;
+    int i = 0, j = 0;
+    while(i<n1&&j<n2){
+if( *(*(t1+i)+0) < *(*(t2+j)+0) ){
+    *(*(tSum+k)+0) = *(*(t1+i)+0);
+    *(*(tSum+k)+1) = *(*(t1+i)+1);
+    *(*(tSum+k)+2 )= *(*(t1+i)+2);
+    k++;
+    i++;
+    }else if( *(*(t1+i)+0) > *(*(t2+j)+0) ){
+    *(*(tSum+k)+0) = *(*(t2+j)+0);
+    *(*(tSum+k)+1) = *(*(t2+j)+1);
+    *(*(tSum+k)+2 )= *(*(t2+j)+2);
+       k++;
+       j++;  
+    }else if( *(*(t1+i)+1) < *(*(t2+j)+1) ){
+    *(*(tSum+k)+0) = *(*(t1+i)+0);
+    *(*(tSum+k)+1) = *(*(t1+i)+1);
+    *(*(tSum+k)+2 )= *(*(t1+i)+2);
+       k++;
+       i++;
+    }else if( *(*(t1+i)+1) > *(*(t2+j)+1) ){
+    *(*(tSum+k)+0) = *(*(t2+j)+0);
+    *(*(tSum+k)+1) = *(*(t2+j)+1);
+    *(*(tSum+k)+2 )= *(*(t2+j)+2);
+       k++;
+       j++;
+    }else{
+    *(*(tSum+k)+0) = *(*(t1+i)+0);
+    *(*(tSum+k)+1) = *(*(t1+i)+1);
+    *(*(tSum+k)+2 )= *(*(t1+i)+2)+*(*(t2+j)+2);
+       k++;
+       i++; j++;
+    }
+    }
+    while(i<n1){
+    *(*(tSum+k)+0) = *(*(t1+i)+0);
+    *(*(tSum+k)+1) = *(*(t1+i)+1);
+    *(*(tSum+k)+2 )= *(*(t1+i)+2);
+       k++;
+       i++;
+    }
+while(j<n2){
+    *(*(tSum+k)+0) = *(*(t2+j)+0);
+    *(*(tSum+k)+1) = *(*(t2+j)+1);
+    *(*(tSum+k)+2 )= *(*(t2+j)+2);
+       k++;
+       j++;
+}
+    printf("\nSum :");
+    for (int i = 0; i < k; i++)
+    {
+        printf("\n");
+        for (int j = 0; j < 3; j++)
+        {
+            printf("%d ", *(*(tSum+i)+j));
+        }
+    }
+}
