@@ -3,8 +3,6 @@ public class palindrome
 	public static void main(String[] args) {
 	String s="malayalam";
 	int i,j,f=0,l;
-	System.out.println("Tisa Sunny");
-	System.out.println("62");
 	i=s.length();
 	l=i-1;
         for(j=0;j<(i/2);j++)
@@ -14,8 +12,8 @@ public class palindrome
 	 l--;
 	}
 	if(f==1)
-	System.out.println(s+" is Not a Palindrome");
+	System.out.println(s+" is Not a Palindrome\n");
 	else
-	System.out.println(s+" is a Palindrome");
+	System.out.println(s+" is a Palindrome\n");
 	}
 }        
