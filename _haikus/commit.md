@@ -4,6 +4,6 @@ title: commit
 author: xirzag
 ---
 
-just commit your code<br>
+Just commit your code<br>
 and see the upload progress<br>
-you can relax now<br>
+You can relax now<br>
