@@ -1,7 +1,6 @@
 ---
 layout: haiku
 title: Initial_moon, a Haiku
-title: Initial_moon, a Haiku.
 author: Luana Catake
 ---
 
