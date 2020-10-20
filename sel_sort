@@ -1,0 +1,26 @@
+#include <stdio.h>
+int a[50],n;
+void selsort(){
+    int ele,i,j;
+    for(i=1;i<n;i++){
+    ele=a[i];
+    j=i-1;
+    while(j>=0&&a[j]>ele){
+           a[j+1]=a[j];
+           j--;
+        }
+    a[j+1]=ele;
+    }
+}
+void main()
+{   int i;
+    printf("Enter size of array: ");
+    scanf("%d",&n);
+    printf("Enter the elements: ");
+    for(i=0;i<n;i++)
+    scanf("%d",&a[i]);
+    selsort();
+    printf("Sorted array is : ");
+    for(i=0;i<n;i++)
+    printf("%d  ",a[i]);
+}   
