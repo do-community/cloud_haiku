@@ -4,6 +4,6 @@ title: Hacktober Fest
 author: Ben
 ---
 
-Hacktober fest is fun<br>
-Submitting pull requests quite sucks<br>
+Hacktoberfest fun<br>
+Submitting pull requests quite <br>
 But I want t-shirt<br>
