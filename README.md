@@ -31,7 +31,7 @@ author:
 ```
 aah thats what up cool
 Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
-
+is it really though?
 Please do not add any other lines to the above format.
 
 **Note**: We are using Travis CI as a test suite to help us automatically test markdown files. While maintainers sometimes need to override the test suite, disabling it as a contributor will cause extra work for maintainers. Please keep your markdown heading to be exactly as is described above in order to ensure that your pull request will be merged.
