@@ -2,6 +2,7 @@
 layout: haiku
 title: October Days
 author: Stefanny
+test: false
 ---
 
 Today coding day<br>
