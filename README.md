@@ -29,7 +29,7 @@ title:
 author:
 ---
 ```
-
+aah thats what up cool
 Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
 
 Please do not add any other lines to the above format.
