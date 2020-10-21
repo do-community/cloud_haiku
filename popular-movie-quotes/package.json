@@ -1,0 +1,35 @@
+{
+    "name": "popular-movie-quotes",
+    "version": "1.0.1",
+    "description": "A simple NPM package to get popular movie quotes",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NikhilNamal17/popular-movie-quotes.git"
+    },
+    "keywords": [
+        "word",
+        "words",
+        "list",
+        "array",
+        "random",
+        "rand",
+        "movies",
+        "quote",
+        "quotes",
+        "cinema",
+        "popular"
+    ],
+    "bugs": {
+        "url": "https://github.com/NikhilNamal17/popular-movie-quotes/issues"
+    },
+    "directories": {
+        "demo": "demo",
+        "data": "data"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Nikhil N Namal <nikhilnamal16@mail.com>",
+    "license": "MIT"
+}
