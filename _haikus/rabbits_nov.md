@@ -5,4 +5,4 @@ author: Terje
 ---
 Clouds in November<br>
 several angry rabbits<br>
-popping off droppings
+popping off droppings<br>
