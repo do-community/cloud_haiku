@@ -53,9 +53,9 @@ Haikus are a traditional form of Japanese poetry. They are made up of three line
 Let's consider an example haiku from this repository:
 
 ```
-Distributed cloud  <br>
-Like the octopuses' minds  <br>
-Across the network  <br>
+Dis-trib-ut-ed cloud # 5 syllables
+Like the oc-to-pus-es' minds  # 7 syllables
+A-cross the net-work   # 5 syllables 
 ```
 
 Above, we see that the haiku is composed of 3 lines.
