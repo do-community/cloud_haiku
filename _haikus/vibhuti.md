@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Vibhuti, the Haiku
+title: Sunset
 author: Vibhuti
 ---
 
