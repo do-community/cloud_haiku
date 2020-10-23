@@ -4,6 +4,6 @@ title: Vibhuti, the Haiku
 author: Vibhuti
 ---
 
- raindrops,<br>
-Taking shape between our screens<br>
-And mingling our minds.<br>
+In the twilight rain<br>
+these brilliant-hued hibiscus -<br>
+A lovely sunset.<br>
