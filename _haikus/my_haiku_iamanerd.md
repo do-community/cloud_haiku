@@ -2,6 +2,7 @@
 layout: haiku
 title: I'm a nerd
 author: pheiduck
+test: false
 ---
 
 Yes, I am a nerd <br>
