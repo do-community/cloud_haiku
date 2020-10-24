@@ -5,5 +5,5 @@ author: DragonicOverlord29
 ---
 
 At the crack of dawn<br>
-I awaken to the sound of birds<br>
+Get up to the sound of birds<br>
 And fall back asleep<br>
