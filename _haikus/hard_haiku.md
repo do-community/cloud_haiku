@@ -6,4 +6,4 @@ author: Moni
 
 Creating Haiku<br>
 Is harder than it appears<br>
-Will take a while.<br>
+It will take a while.<br>
