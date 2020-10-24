@@ -4,6 +4,6 @@ title: ThakeSL
 author: TLYSL
 ---
 
-I am Thake boy  <br>
-I'm from earth station001<br>
-love Research<br>
+I am Thake earth  <br>
+I'm from earth station001 orbit01<br>
+love Research & devlop<br>
