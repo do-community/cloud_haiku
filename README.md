@@ -100,7 +100,7 @@ author: Sammy
 ---
 
 Distributed cloud<br>
-Like the octopuses' minds<br>
+Like the octopus' minds<br>
 Across the network<br>
 ```
 
