@@ -4,6 +4,5 @@ title: Manga Haiku
 author: ManuLasker
 ---
 Read manga daily<br>
-Watch a new world being created<br>
-Mangaka as a programmers<br>
-Being gods of its creations<br>
+watch a new world created<br>
+start new adventures<br>
