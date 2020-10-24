@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Thake
-author: TLY
+title: ThakeSL
+author: TLYSL
 ---
 
-Hi everyone, What's up!<br>
-I am Thake from earthstationxyz<br>
-I love Research & Development!<br>
+I am Thake boy  <br>
+I'm from earth station001<br>
+love Research<br>
