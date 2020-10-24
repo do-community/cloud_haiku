@@ -1,8 +1,8 @@
 ---
 layout: haiku
-title: haiku by kumuda
-author: kumuda 
+title: A haiku
+author: kumuda k
 ---
-even with distance<br>
-the world feels painfully close.<br>
-but hope turns the page<br>
+my darling come here<br>
+we are playing the same game<br>
+just other levels<br>
