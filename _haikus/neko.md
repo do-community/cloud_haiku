@@ -1,9 +1,10 @@
 ---
 layout: haiku
 title: nekoneko
-author: mad
+author: Mad
 ---
 I live for neko <br>
 I strive for neko <br>
 I love neko <br>
-mad. Hacktoberfest!<br>
+Mad. Hacktoberfest!<br>
+ 
