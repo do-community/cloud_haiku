@@ -4,6 +4,6 @@ title: Tomorrow
 author: Amith Prasanth 
 ---
 
-A spring sky clear<br>
-That your feel your wearing<br>
-Into the tomorrow<br>
+A spring sky so clear<br>
+That you are feel your wearing<br>
+Into tomorrow<br>
