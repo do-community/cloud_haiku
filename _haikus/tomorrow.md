@@ -4,7 +4,6 @@ title: Tomorrow
 author: Amith Prasanth 
 ---
 
-Who knows what tomorrow holds,
-whether it is the calm before the storm,
-or the Tranquility after Chaos,
-or maybe just the gift of Life.
+A spring sky clear<br>
+That your feel your wearing<br>
+Into the tomorrow<br>
