@@ -4,6 +4,6 @@ title: A BeautifulSoup
 author: Akash Kumar
 ---
 
-Have you ever had
-Delicious, BeautifulSoup
-Made by a Python?
+Have you ever had<br>
+Some tasty, BeautifulSoup<br>
+Made by a Python?<br>
