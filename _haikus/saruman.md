@@ -4,6 +4,7 @@ title: Saruman
 author: Yusuf Dede
 ---
 
-No, I will not join your rabble, Gandalf<br>
-I don't particularly<br>
-trust your lady [she means Galadriel]<br>
+Boromir is gone <br>
+Treebeard and the Ent council <br>
+To fight Saruman <br>
+
