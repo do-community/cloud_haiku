@@ -3,8 +3,8 @@ layout: haiku
 title: nekoneko
 author: Mad
 ---
-I live for neko <br>
-I strive for neko <br>
-I love neko <br>
-Mad. Hacktoberfest!<br>
+Neko is my world <br>
+It is neko I stive to be <br>
+I love all neko <br>
+
  
