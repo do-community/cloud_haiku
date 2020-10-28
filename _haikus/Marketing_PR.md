@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: winter fest
+title: marketing tricks
 author: RaDaDiYaMoHiT
 ---
 
