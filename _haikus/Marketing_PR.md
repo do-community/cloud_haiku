@@ -4,6 +4,6 @@ title: marketing tricks
 author: RaDaDiYaMoHiT
 ---
 
-Marketing Skills<br>
-SEO experts celebrate<br>
+Marketing Skills set<br>
+SEO experts celebrating<br>
 improved search rankings<br>
