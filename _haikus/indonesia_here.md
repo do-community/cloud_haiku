@@ -7,4 +7,4 @@ test: false
 
 Knowledge will not be attained <br>
 except with fortitude <br>
-Imam As Syafi'i<br>
+Imam As Syafi'i <br>
