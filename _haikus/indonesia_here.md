@@ -1,5 +1,5 @@
 ---
-layout: haiku
+layout: indonesian
 title: Hello indonesian
 author: Muhammad Aldan
 test: false
