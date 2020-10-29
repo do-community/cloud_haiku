@@ -5,5 +5,5 @@ author: RaDaDiYaMoHiT
 ---
 
 Marketing Skills set<br>
-SEO experts celebrating<br>
+SEO experts celebrate<br>
 improved search rankings<br>
