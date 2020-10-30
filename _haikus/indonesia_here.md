@@ -2,7 +2,6 @@
 layout: haiku
 title: Hello indonesian
 author: Muhammad Aldan
-test: false
 ---
 
 Knowledge will not be<br>
