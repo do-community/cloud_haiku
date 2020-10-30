@@ -2,6 +2,7 @@
 layout: haiku
 title: Blue Cloud, a Haiku
 author: Adzik
+test: false
 ---
 
 Files hanging still<br>
