@@ -1,4 +1,6 @@
 node_modules
+package-lock.json
 .DS_Store
 .nyc_output
-package-lock.json
+.suo
+.sqlite
