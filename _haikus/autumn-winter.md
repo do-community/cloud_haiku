@@ -4,6 +4,6 @@ title: Winter is coming
 author: Elliaster
 ---
 
-Terrible autumn<br>
-A hope dies<br>
-wathching corona rise<br>
+Shivering autumn<br>
+A living corona snaps<br>
+in spite of the hope<br>
