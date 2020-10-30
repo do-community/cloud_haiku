@@ -2,6 +2,7 @@
 layout: haiku
 title: Shop Cloud
 author: Soumiya
+test: false
 ---
 
 Cloud contact center<br>
