@@ -2,6 +2,7 @@
 layout: haiku
 title: Cop To Code
 author: Jeremy Hamilton
+test: false
 ---
 
 Once bound to sadness<br>
