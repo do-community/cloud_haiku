@@ -2,6 +2,7 @@
 layout: haiku
 title: Helm
 author: Lucky
+test: false
 ---
 
 This is a Helm Tool<br>
