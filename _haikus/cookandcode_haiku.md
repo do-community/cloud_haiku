@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: candc_team
+title: try_it
 author: team_candc
 ---
 
-beer and IT yummy<br>
+beer and code yummy<br>
 cook and code saves the hole world<br>
 pizza is the best<br>
