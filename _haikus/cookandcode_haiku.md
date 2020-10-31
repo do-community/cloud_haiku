@@ -4,6 +4,6 @@ title: try_it
 author: team_candc
 ---
 
-beer and code yummy<br>
+beer code yummy<br>
 cook and code saves the hole world<br>
 pizza is the best<br>
