@@ -2,7 +2,6 @@
 layout: haiku
 title: Fur
 author: crricks
-test: false
 ---
 
 How did hair get there?<br>
