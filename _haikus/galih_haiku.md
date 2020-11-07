@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Haiku
-author: Galih Pramana
+title: Halloween Haiku
+author: Galih Pramana 06
 ---
 
-I'm trying haiku
-It's my first time here and there
-Hope for the best here
+I'm trying to write <br>
+a cloud haiku I need now <br>
+Happy Halloween! <br>
