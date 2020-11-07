@@ -4,6 +4,6 @@ title: Haiku
 author: Galih Pramana
 ---
 
-liquid little stones <br>
-skipping and skittering free <br>
-on shared umbrellas <br>
+I'm trying haiku
+It's my first time here and there
+Hope for the best here
