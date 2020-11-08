@@ -2,7 +2,6 @@
 layout: haiku
 title: Halloween Haiku
 author: Calin George-Adrian
-test: false
 ---
 
 I'm trying to write <br>
