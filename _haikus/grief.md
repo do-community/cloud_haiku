@@ -2,7 +2,6 @@
 layout: haiku
 title: Grief
 author: DragonicOverlord29
-test: false
 ---
 
 We are born alone<br>
