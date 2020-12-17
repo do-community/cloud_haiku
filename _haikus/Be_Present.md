@@ -1,7 +1,7 @@
 
-layout | title | author
---- | --- | --- 
-haiku | Be Present | suhas-kadu
+layout: haiku <br>
+title: Be Present <br>
+author: suhas-kadu <br>
 
 Forget the past <br>
 be present <br>
