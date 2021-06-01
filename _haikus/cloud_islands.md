@@ -1,7 +1,7 @@
 ---
 layout : haiku
 title : Cloud Islands
-authour : Adzark
+author : Adzark
 ---
 
 Decentralized cloud<br>
