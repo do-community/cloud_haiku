@@ -4,6 +4,6 @@ title: School day
 author: E Tambaum
 ---
 
-Came to school<br>
-Fixed some grades, went back<br>
-Was a boring day<br>
+Came to school, had fun <br>
+Fixed some grades, went back home <br>
+Was a boring day <br>
