@@ -104,31 +104,6 @@ Like the octopuses' minds<br>
 Across the network<br>
 ```
 
-### Testing
-
-This repository includes a test script that will be run on every pull request. To run the tests locally, you'll need Node.js installed. You should then be able to install the dependencies and run the tests.
-
-First clone the repo, if you haven't done so already:
-
-```shell
-$ git clone https://github.com/do-community/cloud_haiku.git
-```
-
-Then change into the new directory and install the dependencies with `npm`:
-
-```shell
-$ cd cloud_haiku
-$ npm install
-```
-
-Finally, run the tests:
-
-```shell
-$ npm test
-```
-
-Note that due to the "creativity" of the English language it's possible for the syllable counting library to be off. If your pull request fails a test and you think that's in error, please follow up with a comment.
-
 ### Submit a Pull Request
 
 We're happy to merge valid pull requests to this repository! Any pull request that follows the formatting guidelines above will be brought into this project.
