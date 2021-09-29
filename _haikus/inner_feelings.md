@@ -4,6 +4,6 @@ title: inner_feelings
 author: Harish Kumar
 ---
 
-she is always there<br>
-when you are tired and exhausted<br>
+she's always there<br>
+when you are tired and empty<br>
 she watching at you<br>
