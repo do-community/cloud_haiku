@@ -1,10 +1,9 @@
 ---
 layout: haiku
-title: Siamese Cat, a haiku
+title: Files Fly
 author: Molly Tremaine
 ---
 
-Siamese Cat<br>
-Meows heard from moutain top<br>
-Come play come play<br>
-Funny cat, you make my day<br>
+Bursting at the seem<br>
+Invoke the cloud, save here now<br>
+Files fly through this sky<br>
