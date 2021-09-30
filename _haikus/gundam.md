@@ -1,8 +1,9 @@
 ---
 layout: haiku
 title: Robot
-author: Thanos Dimitriades
+author: Thanos
 ---
-Eventide autumn
-An amazing robot stands
-coding the king
+
+Eventide autumn<br>
+An amazing robot stands<br>
+coding a dragon<br>
