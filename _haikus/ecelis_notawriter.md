@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Not a writer
-author Ernesto Celis
+author: Ernesto Celis
 ---
 
 And sometimes I write
