@@ -4,4 +4,6 @@ title: Octopus Cloud
 author: Darshil
 ---
 
-Yayy, first pull request for Hacktoberfest 2021!! <br>
+Bath time for toddler.<br>
+So I can send one e-mail.<br>
+New normal is hard.<br>
