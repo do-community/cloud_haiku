@@ -4,6 +4,6 @@ title: NYC Space Apps
 author: Lisa Tagliaferri
 ---
 
-NYC Space Apps
-Fun to learn Git together
-Commit and deploy
+NYC Space Apps <br>
+Fun to learn Git together <br>
+Commit and deploy <br>
