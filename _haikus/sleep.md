@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: sleep
-author: Aman Shrivastava
+author: Aman
 ---
 
   I want to sleep... <br>
