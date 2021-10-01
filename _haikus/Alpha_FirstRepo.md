@@ -5,4 +5,4 @@ author: MAD_Jokkerr
 ---
 Today is the day <br>
 Hacktoberfest number eight! <br>
-Horray open Source <br>
+Horray open Source! <br>
