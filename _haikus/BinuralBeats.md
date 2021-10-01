@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: 
+title: BinuralBeats
 author: LoSTOPerativE
 ---
 
