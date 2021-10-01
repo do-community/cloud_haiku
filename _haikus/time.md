@@ -4,6 +4,6 @@ title: time
 author: Yulidar
 ---
 
-Yesterday is history<br> 
-tomorrow is a mystery<br> 
-Today is a gift<br>
+Refreshing and cool, <br> 
+love is a sweet summer rain <br> 
+that washes the world. <br>
