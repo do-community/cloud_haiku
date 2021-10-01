@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title: 2020 Hackoberfest
-author: SB
+title: 2021 Hackoberfest
+author: Stepan Burimov
 ---
 All my means are sane <br>
 my motive and my object <br>

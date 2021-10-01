@@ -1,7 +1,7 @@
 ---
-layout: haiku
+layout: stsl
 title: Sharky, a Haiku
-author: Lyn Muldrow
+author: Stepan Burimov
 ---
 
 Learning to code is<br>
