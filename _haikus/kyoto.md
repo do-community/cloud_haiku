@@ -1,9 +1,9 @@
 ---
 layout: haiku
 title: kyoto
-author: Aman
+author: aman
 ---
 
-  In Kyoto, <br>
-Hearing the cuckoo, <br>
+  In Kyoto,<br>
+Hearing the cuckoo,<br>
 I long for Kyoto.
