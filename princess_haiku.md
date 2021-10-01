@@ -1,7 +1,9 @@
-Princess Hair
+---
+layout: haiku
+title: Princess Haiku
+author: MeghaGD
+---
 
-A distant palace
-Housed a pretty princess
-with enviable hair
-
-- An original poem by MeghaGD
+A distant palace<br>
+Sheltered a pretty princess<br>
+with enviable hair<br>
