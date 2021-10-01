@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: DNS Troubleshooting
-author: Kirk Bater
+author: /u/SSBroski
 test: false
 ---
 

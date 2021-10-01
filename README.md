@@ -2,6 +2,8 @@
 
 Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website.
 
+**Due to the popularity of this repository during the celebration of Hacktoberfest, please respect the time it takes for the maintainers to review and merge pull requests. Please allow up to a week to receive a response, which may include a request for changes.**
+
 ## [Haikus](https://do-community.github.io/cloud_haiku/haikus/)
 
 All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/haikus/)** are available via the [`/_haikus`](https://github.com/do-community/cloud_haiku/tree/master/_haikus) directory.
@@ -10,7 +12,7 @@ All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/
 
 To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial "[How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)" and then compose a haiku in Markdown (`.md`).
 
-**Note: Due to the popularity of this repository, especially around Hacktoberfest, we will only accept one haiku contribution per user.** 
+**Note: Due to the popularity of this repository, especially around Hacktoberfest, we will only accept one haiku contribution per user.**
 
 ### Filename and Location
 
@@ -30,6 +32,10 @@ author:
 
 Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
 
+Please do not add any other lines to the above format.
+
+**Note**: We are using Travis CI as a test suite to help us automatically test markdown files. While maintainers sometimes need to override the test suite, disabling it as a contributor will cause extra work for maintainers. Please keep your markdown heading to be exactly as is described above in order to ensure that your pull request will be merged.
+
 Under this heading, you'll put your haiku.
 
 ### Writing a Haiku
@@ -44,12 +50,12 @@ Haikus are a traditional form of Japanese poetry. They are made up of three line
 
 *Syllables* are a unit of organization for speech sounds that typically include a vowel. For example, the word **computer** is composed of three syllables: **com** - **put** - **er**.
 
-Let's look at an example haiku from this repository:
+Let's consider an example haiku from this repository:
 
 ```
-Distributed cloud  
-Like the octopuses' minds  
-Across the network  
+Distributed cloud  <br>
+Like the octopuses' minds  <br>
+Across the network  <br>
 ```
 
 Above, we see that the haiku is composed of 3 lines.
@@ -68,7 +74,7 @@ Many forms of poetry have specific aesthetic rules to follow. This challenge mak
 
 ### Line Breaks
 
-To ensure that there are proper line breaks, you will need to put two blank spaces after each line of your haiku. Alternately, you can use HTML line breaks, like so:
+To ensure that there are proper line breaks, please use HTML line breaks, like so:
 
 ```markdown
 ---
@@ -84,7 +90,7 @@ Across the network<br>
 
 ### An Example
 
-For example, Sammy the Shark's haiku is called "Octopus Cloud," and they wrote their name as just "Sammy." Sammy named their file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
+For example, Sammy the Shark's haiku is called "Octopus Cloud", and they wrote their name as just "Sammy". Sammy named their file [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
 
 ```markdown
 ---
@@ -93,35 +99,10 @@ title: Octopus Cloud
 author: Sammy
 ---
 
-Distributed cloud  
-Like the octopuses' minds  
-Across the network  
+Distributed cloud<br>
+Like the octopuses' minds<br>
+Across the network<br>
 ```
-
-### Testing
-
-This repository includes a test script that will be run on every pull request. To run the tests locally, you'll need Node.js installed. You should then be able to install the dependencies and run the tests.
-
-First clone the repo, if you haven't done so already:
-
-```shell
-$ git clone https://github.com/do-community/cloud_haiku.git
-```
-
-Then change into the new directory and install the dependencies with `npm`:
-
-```shell
-$ cd cloud_haiku
-$ npm install
-```
-
-Finally, run the tests:
-
-```shell
-$ npm test
-```
-
-Note that due to the "creativity" of the English language it's possible for the syllable counting library to be off. If your pull request fails a test and you think that's in error, please follow up with a comment.
 
 ### Submit a Pull Request
 
