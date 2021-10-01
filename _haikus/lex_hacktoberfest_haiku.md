@@ -1,8 +1,8 @@
 layout: haiku
-title: yom yom 
+title: infrastructure  
 author: lexx
 ---
 
-i love eating food<br>
-mac and cheese is delicious<br>
-wine goes well with food<br>
+clouds, not just for rain<br>
+public private hybrid clouds<br>
+keep your data safe<br>
