@@ -1,5 +1,9 @@
-```
-my code failed again
-C I in the cloud please accept
-pylint be my friend
-```
+---
+layout: haiku
+title: prayer to pylint in the sky
+author: ejboettcher
+---
+
+my code failed again <br>
+C I in the cloud please accept<br>
+pylint be my friend<br>
