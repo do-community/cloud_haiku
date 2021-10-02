@@ -3,6 +3,8 @@ layout: haiku
 title: A Flower
 author: Bhavana
 ---
+
 In all that you do<br>
-Let love be the foundation<br>
-Great to left seen just alone<br>
+Show respect and love to learn<br>
+It is the foundation<br>
+
