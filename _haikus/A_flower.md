@@ -6,5 +6,5 @@ author: Bhavana
 
 In all that you do<br>
 Show respect and love to learn<br>
-It is the foundation<br>
+It's the foundation<br>
 
