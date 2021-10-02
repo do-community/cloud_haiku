@@ -4,6 +4,6 @@ title: Today
 author: Spike
 ---
 
-Chasing A Better Tomorrow <br>
-And Every Tomorrow, Another Tomorrow <br>
-Today Is Lost<br>
+While Chasing A Better Tomorrow <br>
+And Every Tomorrow, Chase For Another Tomorrow <br>
+A Beautifull Today Is Lost<br>
