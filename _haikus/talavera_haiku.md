@@ -3,6 +3,6 @@ layout: haiku
 title: talavera haiku
 author: Luis Talavera
 ---
-El otoño comienza <br>
-Y la emoción también <br>
-La alegría está aquí 
+Otoño llega <br>
+Y la emoción también <br> 
+Qué felicidad
