@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: fisrt-pull-request
+title: arya
 author: Arya
 ---
 
-And so it begins,<br>
-just by following a tutorial<br>
-my journey in hacktoberfest 2021.<br>
+Feeling confused but<br>
+will try my best to finish<br>
+this thing by it's end<br>
