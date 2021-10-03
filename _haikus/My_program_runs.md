@@ -5,5 +5,5 @@ author: Avijit
 ---
 
 When a program runs<br>
-Dont change, even if a comment<br>
-or.... even a whitespace :)<br>
+Don't think to change anything<br>
+even if space<br>
