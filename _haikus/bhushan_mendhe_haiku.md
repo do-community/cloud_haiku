@@ -4,5 +4,5 @@ title: 2021 Hackoberfest
 author: Bhushan Mendhe
 ---
 Today is the day <br>
-Hacktoberfest eighth edition <br>
+Hacktoberfest eighth version <br>
 Let's go Open Source <br> 
