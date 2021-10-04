@@ -4,6 +4,6 @@ title: 2021 Hacktober fest
 authoer: Srishtik Bhandarkar
 ---
 
-Beautiful season,<br>
-always inspires soul within,<br>
-how mesmerizing!<br>
+The Sun shines brightly,<br>
+dust sparkles in the sunlight,<br>
+a new day begins!<br>
