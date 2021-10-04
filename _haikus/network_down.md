@@ -5,5 +5,5 @@ Author: @jrrohrer
 ---
 
 Stay the patient course. <br>
-Of little worth is your ire, <br>
+Of little worth is ire, <br>
 The network is down.
