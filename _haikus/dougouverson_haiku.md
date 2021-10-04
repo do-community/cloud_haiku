@@ -5,4 +5,4 @@ author: Doug Ouverson
 ---
 clouds in Florida <br>
 the best in the wide wide world <br>
-look up and admire <br>
+look and admire <br>
