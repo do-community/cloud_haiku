@@ -7,4 +7,4 @@ test: false
 
 The cloud is awesome<br>
 No on prem hardware needed<br>
-This is the future <br>
+This is the future<br>
