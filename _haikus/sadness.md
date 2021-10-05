@@ -1,9 +1,9 @@
 ---
 layout: haiku
 title: Sadness
-author: Giack
+author: giack-dev
 ---
 
-Sadness<br>
-A grey sea<br>
-The Winter<br>
+A stripped cold feeling <br>
+The human empty shells shown <br>
+One dark angel weeps <br>
