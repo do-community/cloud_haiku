@@ -4,6 +4,6 @@ title: beginning, a haiku
 author: sohamdata
 ---
 
-Got to know what a haiku is today<br>
-And honesly<br>
-I'm no poet<br>
+What is a haiku <br>
+I got to know that today <br>
+And I'm no poet <br>
