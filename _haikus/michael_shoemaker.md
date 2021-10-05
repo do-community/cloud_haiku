@@ -5,6 +5,6 @@ author: Michael Shoemaker
 test: false
 ---
 
-The cloud is super fun <br>
-No more need for hardware <br>
+The cloud is awesome<br>
+No on prem hardware needed<br>
 This is the future <br>
