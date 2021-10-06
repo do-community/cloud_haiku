@@ -4,6 +4,6 @@ title: Zoey
 author: Bill E. Dawson
 ---
 
-Sneaky lil' Zoey <br>
-silent Chihuahua <br>
-Lurking under covers.
+Reading directions<br>
+Hacktoberfest pull request<br>
+Updated my haiku.
