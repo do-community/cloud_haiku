@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Stormy_night
-author: dev-ameyjoshi
+title: The Old Pond
+author: Matsuo Bashō
 ---
 
-Stars are hidden<br>
-Clouds have risen,<br>
-Oh no! It's a stormy night!<br>
+gale force wind<br>
+rips through hazardous night,<br>
+button down hatches<br>
