@@ -1,8 +1,9 @@
 ---
 layout: haiku
-Title: Ambitious to the next level
-Author: NIDHI
+title: Ambitious 404
+author: Nidhi
 ---
 
-Big results require big ambitions<br>
-Intelligence and determination are the ammunitions
+Distributed Cloud<br>
+Like the octopuses' minds<br>
+Across the network<br>
