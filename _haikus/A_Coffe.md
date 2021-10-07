@@ -1,9 +1,8 @@
 ---
 layout: haiku
 title: A Coffe
-author: Iynsys
+author: Stoyan
 ---
-
-My another Day <br>
-Your Another Cups coffee <br>
+My another day <br>
+Your another ice cup coffe <br>
 Refresh your brain folks <br>
