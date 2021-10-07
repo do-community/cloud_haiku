@@ -5,5 +5,5 @@ author: Bishwajeet
 ---
 
 the cloud gallop like<br>
-thousands Virtual private Servers across<br>
-the Milky way Galaxy Planets <br>
+mighty white horses across<br>
+the field of sky <br>
