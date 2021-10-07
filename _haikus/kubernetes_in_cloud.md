@@ -5,5 +5,5 @@ author: klydra
 ---
 
 Containers may die.
-Balancers certainly fall of.
+Balancers certainly fall.
 Everyday in cloud!
