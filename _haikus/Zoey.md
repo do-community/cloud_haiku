@@ -6,4 +6,4 @@ author: Bill E. Dawson
 
 Reading directions<br>
 Hacktoberfest pull request<br>
-Updated my haiku.
+Updated haiku.
