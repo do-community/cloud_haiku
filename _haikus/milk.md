@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title:
+title: the milkest of milk
 author: milkman
 ---
 
