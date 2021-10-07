@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: A Coffe
-author: Stoyan
+author: Iynsys
 ---
 My another day <br>
 Your another ice cup coffe <br>
