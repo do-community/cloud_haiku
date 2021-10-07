@@ -6,4 +6,4 @@ author: Bishwajeet
 
 the cloud gallop like<br>
 mighty white horses across<br>
-the field of sky <br>
+the field of the sky <br>
