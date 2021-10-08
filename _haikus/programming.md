@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Programming, a Haiku
+title: Programming
 author: CodingAce123
 ---
 
-Programming is just like Mathematics,<br>
+Programming is like Mathematics,<br>
 It is not about your Knowledge,<br>
 It is about your Skill<br>
