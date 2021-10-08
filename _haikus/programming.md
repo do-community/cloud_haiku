@@ -4,6 +4,6 @@ title: Programming
 author: CodingAce123
 ---
 
-Programming is like Mathematics,<br>
-It is not about your Knowledge,<br>
-It is about your Skill<br>
+Programming is Math,<br>
+It's not about your Knowledge,<br>
+It's about your Skill<br>
