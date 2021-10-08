@@ -4,6 +4,6 @@ title: Programming, a Haiku
 author: CodingAce123
 ---
 
-Just like like Mathematics...<br>
-Programming isn't about what you know,<br>
-it's about what you can figure out....<br>
+Programming is just like Mathematics,<br>
+It is not about your Knowledge,<br>
+It is about your Skill<br>
