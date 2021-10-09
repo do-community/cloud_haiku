@@ -5,5 +5,5 @@ author: applemage
 ---
 
 Now it is springtime<br>
-Swords slashing, arcing through the air<br>
+Swords slashing, arcing through air<br>
 Blood on white rosebuds
