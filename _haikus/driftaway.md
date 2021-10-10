@@ -4,6 +4,6 @@ title: Drift Away
 author: Ashutosh
 ---
 
-Clouds stretched wide<br>
-By ethics we shall abide<br>
+Clouds are stretched wide enough<br>
 Don't drift away in the data tide<br>
+By ethics we shall too abide<br>
