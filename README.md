@@ -10,7 +10,7 @@ All of our user-submitted **[haikus](https://do-community.github.io/cloud_haiku/
 
 ## Contributing
 
-To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial "[How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)" and then compose a haiku in Markdown (`.md`).
+To contribute a haiku to this repository, watch the video about submitting a pull request in the HacktoberFest by DigitalOcean tutorial "[How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)" and then compose a haiku in Markdown (`.md`).
 
 **Note: Due to the popularity of this repository, especially around Hacktoberfest, we will only accept one haiku contribution per user.**
 
@@ -30,7 +30,7 @@ author:
 ---
 ```
 
-Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name (this can be just your first name or a pseudonym if you would like).
+Keep the layout as `haiku`. Next to the `title:` put the title of your haiku. Next to the `author:` put your name if you are the one who created it (this can be just your first name or a pseudonym however you would like).
 
 Please do not add any other lines to the above format.
 
@@ -74,11 +74,11 @@ Many forms of poetry have specific aesthetic rules to follow. This challenge mak
 
 ### Line Breaks
 
-To ensure that there are proper line breaks, please use HTML line breaks, like so:
+To ensure that there are proper line breaks, please use HTML line breaks, example:
 
 ```markdown
 ---
-layout: haiku
+layout: Haiku
 title: Octopus Cloud
 author: Sammy
 ---
