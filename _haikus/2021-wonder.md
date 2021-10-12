@@ -6,4 +6,4 @@ author: D'yara Williams
 
 Sit down, stop, don't run! <br>
 Will you ever sit, wonder? <br>
-When life begun. <br>
+When life has begun. <br>
