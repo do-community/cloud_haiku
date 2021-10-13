@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: rishabh
+title: Shark, a Haiku
 author: luharuka
 ---
 Learning the code <br>
