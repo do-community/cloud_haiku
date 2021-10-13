@@ -4,6 +4,6 @@ title: Programming
 author: Shivam118
 ---
 
-You do Programming ,<br>
-that means You know HTML!<br>
-A coincidence it is or what!<br>
+Why to wait so long,<br>
+Choose your community, don't feel shame<br>
+and important is, work silently<br>
