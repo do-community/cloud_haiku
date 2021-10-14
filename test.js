@@ -9,6 +9,7 @@ const vfile = require('to-vfile')
 const syllable = require('syllable')
 const fs = require('fs')
 
+const str = ""
 const dir = './_haikus/'
 const blockList = ['haikus.md']
 
