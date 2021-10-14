@@ -4,6 +4,6 @@ title: Cloud push
 author: prima
 ---
 
-I want to push file<br>
+Want to push file<br>
 Files in here,and on there<br>
 To the cloud in sky<br>
