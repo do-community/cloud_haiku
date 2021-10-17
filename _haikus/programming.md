@@ -4,6 +4,6 @@ title: Programming
 author: Shivam118
 ---
 
-Why to wait so long,<br>
-Choose your community, don't feel shame<br>
-and important is, work silently<br>
+It's going to work!<br>
+Not again, my code has bugs.<br>
+I don't unit test.<br>
