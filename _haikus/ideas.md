@@ -4,6 +4,6 @@ title: Ideas
 author: lethycia_carvalho
 ---
 
-A good idea<br>
+It's a good idea<br>
 Sometimes it can light you up<br>
 Sometimes, the others.<br>
