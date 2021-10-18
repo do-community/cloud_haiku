@@ -1,6 +1,6 @@
 layout: haiku
 title: A new Haiku
-authod: Joydeep Ghatak
+author: Joydeep Ghatak
 
 
 Learning and creating <br>
