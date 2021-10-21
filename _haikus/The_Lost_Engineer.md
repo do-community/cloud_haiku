@@ -6,4 +6,4 @@ author: Daniel Orr
 
 Changing ones future<br>
 Letting go of what once was<br>
-Learn to code<br>
+Learning to code well<br>
