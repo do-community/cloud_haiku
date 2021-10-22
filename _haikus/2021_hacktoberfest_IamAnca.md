@@ -1,7 +1,6 @@
----
 layout: haiku
-title: Zoey
-author: chinese proverb
+title: Anca-Maria
+author: Chinese proverb
 ---
 
 Learning is a treasure<br>
