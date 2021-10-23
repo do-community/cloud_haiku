@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: 
-author: Rene A. Carbajal
+title: HacktoberFest2021
+author: KavyaJaiswal
 ---
 
-Hello world I said <br>
-As I first talked to my firend <br>
-A new world began <br>
+Hack the October,<br>
+By participating here<br>
+Come, be part of fest.<br>
