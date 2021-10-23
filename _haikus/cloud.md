@@ -5,5 +5,5 @@ author: Suyog
 ---
 
 Cloud is amazing,<br>
-when live, Scaling & function, while<br>
+when live, Scaling & function,<br>
 serving data wide<br>
