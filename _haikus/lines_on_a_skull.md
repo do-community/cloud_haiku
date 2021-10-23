@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Lines on a Skull
-author: Ravi Shankar
+author: Agyeya Mishra, Ravi Shankar
 ---
 
 life’s little, our heads<br>
