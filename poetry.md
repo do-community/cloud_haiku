@@ -1,9 +1,5 @@
----
-layout: haiku
-title: Storm
-author: Ricardo Ogando
----
+The taste
+Of rain
+—Why kneel?
 
-Cloud protected rain <br>
-Data bits and bytes in chain <br>
-Lightning runs fiber <br>
+“The Taste of Rain” by Jack Kerouac
