@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Today
-author: Spike
+title: Today, a Haiku
+author: Vengad
 ---
 
-Chasing Perfect Day<br>
-Every Day, Another Day<br>
-We The Lost Today<br>
+Today a haiku<br>
+Yesterday was yesterday<br>
+Today is today<br>
