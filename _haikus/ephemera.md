@@ -2,7 +2,6 @@
 layout: haiku
 title: Ephemera
 author: Brian MacDonald
-test: false
 ---
 
 Clouds sail on the breeze<br>
