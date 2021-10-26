@@ -5,6 +5,6 @@ author: Brian MacDonald
 test: false
 ---
 
-Clouds around and above<br>
+Clouds sail on the breeze<br>
 Water, data, meaning, love<br>
 Drift away in time<br>
