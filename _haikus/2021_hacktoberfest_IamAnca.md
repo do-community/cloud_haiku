@@ -1,6 +1,6 @@
 layout: haiku
 title: Anca-Maria
-author: Chinese proverb
+author: Chinese Proverb
 ---
 
 Learning is a treasure<br>
