@@ -1,14 +1,11 @@
 ---
 layout: haiku
-title: Storm
-author: Ricardo Ogando
+title: Wind
+author: Natsume Sōseki
 ---
 
-Cloud protected rain <br>
-Data bits and bytes in chain <br>
-Lightning runs fiber <br>
-The taste
-Of rain
-—Why kneel?
+Over the wintry<b>
 
-“The Taste of Rain” by Jack Kerouac
+Forest, winds howl in rage<b>
+
+With no leaves to blow.<b>
