@@ -5,5 +5,5 @@ author: Jana
 ---
 
 La vie parisienne<br>
-The new twenties are grey<br>
-What a waste<br>
+The new twenties are grey, Jean<br>
+Liberté flambée<br>
