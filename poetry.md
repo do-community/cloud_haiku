@@ -1,9 +1,5 @@
----
-layout: haiku
-title: Storm
-author: Ricardo Ogando
----
+Look up to the sky
+Oh wait,
+You're the light of this world
 
-Cloud protected rain <br>
-Data bits and bytes in chain <br>
-Lightning runs fiber <br>
+"Ingenious" by Sarpong
