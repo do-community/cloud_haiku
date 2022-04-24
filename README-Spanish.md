@@ -2,7 +2,7 @@
 
 El Haiku de la Nube (Cloud Haiku) es un repositorio de código abierto que colecciona haikus sobre la nube y tecnología de la nube y que publica estos haikus en su sitio web.
 
-**Debido a la popularidad de este repositorio creció durante la celebración de Hacktoberfest, por favor, respeta el tiempo que le toma a los mantenedores revisar y aceptar pull requests. Por favor, espera hasta una semana para recibir una respuesta, la que podría incluir un pedido de cambio.**
+**Debido a que la popularidad de este repositorio creció durante la celebración de Hacktoberfest, por favor, respeta el tiempo que le toma a los mantenedores revisar y aceptar pull requests. Por favor, espera hasta una semana para recibir una respuesta, la que podría incluir un pedido de cambio.**
 
 ## [Haikus](https://do-community.github.io/cloud_haiku/haikus/)
 
@@ -90,7 +90,7 @@ el ruido del mar.<br>
 
 ### Un ejemplo
 
-Por ejemplo, el haiku del tiburón Sammy se llama "Octopus Cloud", y su nombre está escrito simplemente "Sammy". Sammy nombró su archivo [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
+Por ejemplo, el haiku del tiburón Sammy se llama "Octopus Cloud", y su nombre está escrito simplemente como "Sammy". Sammy nombró su archivo [`octopus_cloud.md`](https://github.com/do-community/cloud_haiku/blob/master/_haikus/octopus_cloud.md).
 
 ```markdown
 ---
