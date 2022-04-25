@@ -20,7 +20,7 @@ Deberías nombrar tu archivo de Markdown `el_titulo_de_tu_haiku.md` y guardarlo 
 
 ### Formato Jekyll
 
-Teniendo en cuenta que éste es un sitio [Jekyll](https://jekyllrb.com/), neceitarás incluír el siguiente fragmento al inicio del archivo:
+Teniendo en cuenta que éste es un sitio [Jekyll](https://jekyllrb.com/), necesitarás incluír el siguiente fragmento al inicio del archivo:
 
 ```yaml
 ---
@@ -106,7 +106,7 @@ Across the network<br>
 
 ### Enviar un Pull Request
 
-Estamos contentos de aceptar pull requests válidos a este repositorio. Cualquier pull request que sigue las guías de formato será aceptado en el proyecto.
+Estamos encantados de aceptar pull requests válidos en este repositorio. Cualquier pull request que sigue las guías de formato será aceptado en el proyecto.
 
 Mantén tus haikus relacionados a la tecnología de infraestructura de nube y diviértete colaborando en este proyecto!
 
