@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Octopus Cloud
+title: Boundless Cloud
 author: aajaydev
 ---
 
