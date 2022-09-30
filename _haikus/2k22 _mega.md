@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: hacktober 2k22
+title: hacktober
 author: Megha Vishwakarma
 ---
 
