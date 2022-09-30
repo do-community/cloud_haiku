@@ -6,5 +6,5 @@ author: Vivek Shah
 
 
 FOSS lovers rise up <br>
-Hacktoberfest is back <br>
-Live and love to code. <br>
+The Hacktoberfest is back <br>
+Live and love to give. <br>
