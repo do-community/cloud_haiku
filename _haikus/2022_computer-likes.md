@@ -4,6 +4,6 @@ title: computer likes
 author: Riya Dhami
 ---
 
-computer likes the
-distributed cloud across
-different networks
+Computer likes the<br>
+distributed cloud across<br>
+different networks.<br>
