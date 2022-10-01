@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Wrld of Code
+title: World of Code
 author: Sankalp Bhatnagar
 ---
 
