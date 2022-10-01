@@ -4,6 +4,6 @@ title: appreciation
 author: raj-hero
 ---
 
-Appreciation PR.<br>
+This is open source.<br>
+Welcome to Hacktoberfest!<br>
 Thank you cloud_haiku!<br>
-Open Source Contribution.<br>
