@@ -3,6 +3,6 @@ layout: haiku
 title: Hacktoberfest Love
 author: Simon Schindlatz
 ---
-What am I doing?<br>
-Got nothing to show for my<br>
-first contribution<br>
+I love Hacktober.<br>
+Why? Because people over<br>
+the planet connect.<br>
