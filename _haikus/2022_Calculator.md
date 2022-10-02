@@ -1,8 +1,8 @@
 ---
 layout: haiku
-title: 2022 Calculator
+title: Calculator
 author: Taj Muhammed
 ---
-I tested the code
-Executed Easily
+I tested the code<br>
+Executed Easily<br>
 Sent the pull request
