@@ -4,6 +4,6 @@ title: Empire of the Clouds
 author: Bandit
 ---
 
-Hello everyone 👋<br>
-I'm first time to join hacktoberfest<br>
-Hacktoberfest on October. Empire of the clouds<br>
+First for contribute<br>
+I love open source project<br>
+Keep do open source<br>
