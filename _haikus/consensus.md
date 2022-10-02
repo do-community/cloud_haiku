@@ -4,6 +4,6 @@ title: Consensus
 author: fernandoleira
 ---
 
-Be Distributed<br>
+Be distributed<br>
 Getting consensus is hard<br>
 Using the Paxos<br>
