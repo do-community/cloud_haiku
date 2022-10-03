@@ -6,4 +6,4 @@ author: Merolinda
 
 Cold, rainy weather<br>
 Silence and so loneliness<br>
-That, nostalgic mood!<br> 
+Thus, so nostalgic mood!<br> 
