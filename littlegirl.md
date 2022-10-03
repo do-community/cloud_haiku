@@ -1,6 +1,6 @@
 ---
 layout:haiku
-title:cute girl
+title:littlegirl
 author:bhagya
 ---
 
