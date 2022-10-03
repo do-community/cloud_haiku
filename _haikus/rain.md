@@ -5,5 +5,5 @@ author: atharv Parlikar
 ---
 
 dancing in the rain<br>
-with a broken heart<br>
-and a failt smile on face<br>
+with a faint smile on the face<br>
+and a broken heart<br>
