@@ -8,8 +8,8 @@ author: Benjamin Rukundo
 
 ---
 
-What is happening?
+What is going happen today?
 
-I typed it correctly
+I finished and typed everything very correctly
 
-My code works
+My code has to work
