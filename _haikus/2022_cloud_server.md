@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title:
-author:
+title: Cloud Server Haiku
+author: Neal Donnan
 ---
 
 Cloud server up high<br>
