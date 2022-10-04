@@ -5,5 +5,5 @@ author: johnheusinger
 ---
 
 With the right cloud skills<br>
-Build a stack and make it rain<br>
+Build some stacks and make it rain<br>
 Not literally<br>
