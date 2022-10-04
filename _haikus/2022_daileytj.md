@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title:
-author:
+title: meta-haiku
+author: daileytj
 ---
 
 This is a haiku<br>
