@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Cloud Server Haiku
+title: Cloud Server
 author: Neal Donnan
 ---
 
