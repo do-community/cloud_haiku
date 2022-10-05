@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: This is my awesome haiku!
+title: Space fun
 author: rsk2
 ---
 
