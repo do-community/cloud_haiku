@@ -4,6 +4,6 @@ title: This is my awesome haiku!
 author: rsk2
 ---
 
-Traveling to space <br>
-Ace, pace, brace, mace, vase and lace <br>
-And flying suitcase <br>
+A beautiful face <br>
+Traveling at pace to space <br>
+With flying suitcase <br>
