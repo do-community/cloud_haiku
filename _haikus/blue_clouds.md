@@ -5,5 +5,5 @@ author: Segzy
 ---
 
 The cloud is now blue<br>
-I do not really know why<br>
-But the cloud is blue<br>
+I do know why it is blue<br>
+Yet the cloud is blue<br>
