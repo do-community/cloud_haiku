@@ -6,4 +6,4 @@ author: Suraj Kumar
 
 i'm a beginner<br>
 in the field of open source<br>
-happy to contribute<br>
+glad to contribute<br>
