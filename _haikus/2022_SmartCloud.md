@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: the100
+title: Smart Cloud
 author: chirag
 ---
 
