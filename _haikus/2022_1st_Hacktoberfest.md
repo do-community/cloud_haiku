@@ -4,6 +4,6 @@ title: Participation in Hacktoberfest
 author: Abdul Waheed
 ---
 
-Distributed cloud <br>
-Like the octopuses' minds <br>
-Across the network <br>
+life’s little, our heads <br>
+sad. Redeemed and wasting clay <br>
+this chance. Be of use. <br>
