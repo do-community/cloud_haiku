@@ -5,6 +5,6 @@ author: Silhouette
 ---
 Silhouette fades in 
 
-Grabs keyboard to start PR
+Grabs keyboard 
 
-Viva Hacktoberfest!
+To writes PR
