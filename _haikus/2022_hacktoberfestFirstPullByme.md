@@ -1,9 +1,8 @@
 ---
 layout: haiku
-title: Making my first Pull Request in this year
+title: making haiku
 author: Tharaka
 ---
-
-I forked the haiku repo <br>
-I Type this haiku <br>
-Then I make pull request <br>
+Do your own homeworks
+better thing is coming for us
+Sunshine is leaving
