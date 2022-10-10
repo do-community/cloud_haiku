@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Wonderwoman
-author: Aditi
+author: Aditi C
 ---
 
 “Now I know, that only love can truly<br>
