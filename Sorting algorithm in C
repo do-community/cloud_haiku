@@ -1,7 +1,11 @@
 ---
 layout: haiku
-title: Sorting algorithm 
+title: Sorting algorithm in C
 author: Suryansh Sinha
+
+Sorting algorithm<br>
+Like Sorting algorithm <br>
+Across the network<br>
 ---
 // C program to sort the array in an
 // ascending order using selection sort
