@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: 2021 Crashing Waves
+title: Crashing Waves
 author: Tripti
 ---
 
