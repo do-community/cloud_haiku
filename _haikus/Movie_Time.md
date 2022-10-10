@@ -1,10 +1,10 @@
 ---
 layout: haiku
-title: Movie Time
+title: Code With Fun
 author: Taj muhammed
 ---
 
 
-Watching a movie
-Streaming on Online platform
-Enjoy your movie
+Latest Pull Request
+Code your programs, skills with Fun
+Find your Enjoyment
