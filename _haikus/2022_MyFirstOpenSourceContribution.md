@@ -4,6 +4,6 @@ title: My First Open Source Contribution
 author: Ekansh Gupta
 ---
 
-This is My First Open Source Contribution.
-
-What is Happening ?
+What is happening?
+I typed it in correctly
+My code does not work
