@@ -5,6 +5,6 @@ author: Silhouette
 ---
 Silhouette fades in 
 
-Grabs keyboard 
+Grabs keyboard for a poem
 
-To writes PR
+But writes a PR
