@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: moonlight
+title: cloud
 author: Karthik Sudhan
 ---
 
-In the moonlight,<br>
-The color and scent of the wisteria<br>
-Seems far away.<br>
+Day drawns quietly<br>
+slowing bringing ligth anew<br>
+All is possible<br>
