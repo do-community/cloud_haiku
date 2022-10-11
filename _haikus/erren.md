@@ -4,6 +4,6 @@ title: erren
 author: Utkarsh Rai
 ---
 
-Be an explorer<br>
+Be a explorer<br>
 because that what is not known<br>
 yet is our birthright<br>
