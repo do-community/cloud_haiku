@@ -8,7 +8,7 @@ Please note the following in and around the month of October:
 
 * Maintainers are only able to perform **one round of review**. If your pull request is not accepted by the second round, it will be closed and marked as invalid. 
 
-* *inging maintainers will in fact slow down the process as maintainers are **comments are used for tracking** whether pull requests have been addressed.
+* Pinging maintainers will in fact slow down the process as maintainers are **comments are used for tracking** whether pull requests have been addressed.
 
 ## [Haikus](https://do-community.github.io/cloud_haiku/haikus/)
 
