@@ -4,6 +4,6 @@ title: World Class
 author: Richard Saseun
 ---
 
-Another day to code<br>
+A keystroke of code<br>
 To contribute to the world<br>
-To be world-class!<br>
+To be breathtaking<br>
