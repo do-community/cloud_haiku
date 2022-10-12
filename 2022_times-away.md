@@ -4,6 +4,6 @@ title: october 4th contribute
 author: drey m
 ---
 
-new day today hi,
-ways away, i feel still
-goodbye's lead to hello
+new day today hi, <br>
+ways away, it is all here <br>
+goodbye's lead to hello <br>
