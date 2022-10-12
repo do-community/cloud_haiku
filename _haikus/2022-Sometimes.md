@@ -1,8 +1,9 @@
-layout:haiku
-title:Women Who Code Python
-2022
-Author: ssanger
+---
+layout: haiku
+title: Sometimes 2022
+author: ssanger
+---
 
-Sometimes some days low
-Sometimes some days are too high
-but All days go by
+Sometimes some days low  <br>
+Sometimes some days are too high  <br>
+but All days go bye  <br>
