@@ -1,4 +1,4 @@
-git ---
+---
 layout: haiku
 title: Weirdly
 author: grac3hopper

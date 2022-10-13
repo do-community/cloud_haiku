@@ -2,6 +2,7 @@
 layout: haiku
 title: Kenya
 author: Weshy Joe
+test: false
 ---
 
 Kenya, my country<br>
