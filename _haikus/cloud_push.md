@@ -2,6 +2,7 @@
 layout: haiku
 title: Cloud push
 author: prima
+test: false
 ---
 
 Want to push file<br>

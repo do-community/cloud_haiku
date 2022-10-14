@@ -2,6 +2,7 @@
 layout: haiku
 title: The mind's merge request
 author: Kay
+test: false
 ---
 
 Awaiting upload<br>

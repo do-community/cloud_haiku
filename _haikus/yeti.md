@@ -2,6 +2,7 @@
 layout: haiku
 title: nature yeti
 author: Vinayak
+test: false
 ---
 
 The collegiate life <br>
