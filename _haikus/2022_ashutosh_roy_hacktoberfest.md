@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: A Poppy Blooms Hacktoberfest
+title: The Old Pond Hacktoberfest
 author: Ashutosh Roy
 ---
-I write, erase, rewrite
-Erase again, and then
-A poppy blooms.
+An old silent pond <br>
+A frog jumps into the pond <br>
+Splash! Silence again. <br>
 ---
