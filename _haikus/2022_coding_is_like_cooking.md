@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: 
+title: Coding takes time
 author: Aditya Phatak
 ---
 
