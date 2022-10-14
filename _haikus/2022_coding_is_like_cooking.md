@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: 12th anniversary
-author: Manuel Heredia
+title: 
+author: Aditya Phatak
 ---
 
-Coding is like cooking<br>
-Once you'll miss a step<br>
-Next time you won't<br>
+Your coding journey<br>
+Will slowly start to take shape<br>
+Time is what it takes<br>
