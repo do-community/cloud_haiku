@@ -4,6 +4,6 @@ title: Hacktoberfest Kickoff
 author: Kickoff Stream
 ---
 
-What should I call it?
-Naming is a creative stuff.
-Let's name it "contributions_to_community"
+Technorion techie<br>
+Creative intelligions<br>
+Across every field<br>
