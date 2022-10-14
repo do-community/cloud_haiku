@@ -4,6 +4,6 @@ title: Very First Contribution to Hacktoberfest
 author: Vidip Ghosh
 ---
 
-First Contribution
-To any open source event
-Through college times
+First Contribution<br>
+to the open source event<br>
+during college times<br>
