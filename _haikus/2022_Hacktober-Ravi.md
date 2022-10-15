@@ -6,4 +6,4 @@ author: Ravi Vishwakarma
 
 I am Learning Cloud
 Digital Ocean is great
-Let's make a contribution 
+Make contribution 
