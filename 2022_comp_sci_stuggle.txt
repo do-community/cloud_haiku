@@ -1,0 +1,9 @@
+---
+layout: haiku
+title: comp sci stuggle
+author: Eric Zhhang
+---
+
+Oh my, what a pain!
+The month of hacktoberfest
+Why is it required?
