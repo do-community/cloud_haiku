@@ -4,6 +4,6 @@ title: Coding is Fun
 author: Nilay Mundra
 ---
 
-Coding is so fun
-But errors are not so great
-Because the code breaks
+Coding is so fun<br>
+But errors are not so great<br>
+Because the code breaks<br>
