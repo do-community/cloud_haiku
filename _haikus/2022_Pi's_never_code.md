@@ -5,5 +5,7 @@ author: Piyush J
 ---
 
 What am I doing?
+
 I am a couch potato
-I never code
+
+I don't ever code
