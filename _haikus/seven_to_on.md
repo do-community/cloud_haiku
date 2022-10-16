@@ -2,6 +2,7 @@
 layout: haiku
 title: Every day 7x1 different
 autor: J. Victor
+test: false
 ---
 
 The life is too short<br>

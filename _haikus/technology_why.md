@@ -1,3 +1,4 @@
+---
 layout: haiku
 title: Technology, why???
 author: Shayla L
