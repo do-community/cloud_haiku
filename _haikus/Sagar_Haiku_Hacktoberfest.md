@@ -8,4 +8,4 @@ World and Code by Sagar
 
 World without code and
 code without world are like
-who cares all and who does all.
+who cares who does all.
