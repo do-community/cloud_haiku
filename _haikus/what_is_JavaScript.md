@@ -4,6 +4,6 @@ title: 2021 HacktoberFest
 author : abhijeet gupta
 ---
 
-Today is the day <br>
-HacktoberFest number eight !<br>
-Horray open source!<br>
+JavaScript is great<br>
+It is a scripting language<br>
+It's interactive!<br>
