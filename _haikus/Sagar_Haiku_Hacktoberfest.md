@@ -5,5 +5,5 @@ author: Sagar Neupane
 ---
 
 World without code and<br>
-code without world are like<br>
+code with world, are like<br>
 who cares who does all.<br>
