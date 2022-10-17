@@ -4,6 +4,6 @@ title: code_together
 author: Lloyd_Breunig
 ---
 
-Learning to code alone
-Is it useful for the world of code?
-Better learn Git
+Learning to code one
+Is it useful for the world?
+Better learn Git Hub
