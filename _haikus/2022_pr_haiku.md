@@ -4,6 +4,6 @@ title: PR Haiku
 author: Lalit Pokhrel
 ---
 
-Pile of Prs<br>
-Credentials pushed on a PR<br>
-Senior dev bursts out laughing<br>
+Pile of pending request<br>
+Credentials pushed on the branch<br>
+Headache to Senior<br>
