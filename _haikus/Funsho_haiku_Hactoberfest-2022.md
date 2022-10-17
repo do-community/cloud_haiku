@@ -5,7 +5,6 @@ author: Funsho-ops
 ---
 
 
-tiptoe through the rain <br>
-with your arms outstretched <br>
-and your eyes wide open <br>
-everything is feasible.
+tiptoe through the rain with <br> 
+your arms outstretched and <br>
+your eyes wide open everything is feasible.
