@@ -2,6 +2,7 @@
 layout: haiku
 title: Dr. José Rizal
 author: Michael Lance M. Domagas
+test: false
 ---
 
 An Illustrado<br>

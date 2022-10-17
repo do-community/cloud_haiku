@@ -2,6 +2,7 @@
 layout: haiku
 title: try_it
 author: team_candc
+test: false
 ---
 
 beer or code yummy <br>

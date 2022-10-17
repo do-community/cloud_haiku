@@ -2,9 +2,13 @@
 
 Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website.
 
-**Due to the popularity of this repository during the celebration of Hacktoberfest, please respect the time it takes for the maintainers to review and merge pull requests. Reviews will be conducted on pull requests on the order they are received, and reviews may include a request for changes.** 
+Please note the following in and around the month of October:
 
-**Pinging maintainers will not accelerate the process.**
+* Due to the popularity of this repository during the celebration of Hacktoberfest, please respect the time it takes for the maintainers to review and merge pull requests. **Reviews will be conducted on pull requests on the order they are received, and reviews may include a request for changes**. 
+
+* Maintainers are only able to perform **one round of review**. If your pull request is not accepted by the second round, it will be closed and marked as invalid. 
+
+* Pinging maintainers will in fact slow down the process as maintainers are **comments are used for tracking** whether pull requests have been addressed.
 
 ## [Haikus](https://do-community.github.io/cloud_haiku/haikus/)
 

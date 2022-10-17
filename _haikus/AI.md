@@ -2,6 +2,7 @@
 layout: haiku
 title: AI
 author: Josh Sivey
+test: false
 ---
 
 AI in the cloud,  <br>
