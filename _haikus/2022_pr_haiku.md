@@ -4,6 +4,6 @@ title: PR Haiku
 author: Lalit Pokhrel
 ---
 
-Get Pile of pending request<br>
-Credentials pushed on the repository branch<br>
-Bursts out laughing<br>
+Pile of request in line <br>
+Credentials pushed on github repository branch<br>
+Sad, it gets merged<br>
