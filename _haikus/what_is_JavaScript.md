@@ -1,7 +1,7 @@
 ---
 layout : haiku
-title: 2021 HacktoberFest
-author : abhijeet gupta
+title: 2022 HacktoberFest
+author : sampurna sen
 ---
 
 JavaScript is great<br>
