@@ -4,6 +4,6 @@ title: Failed Code 2022
 author: DZdaffa
 ---
 
-I coded today<br>
-I compare to yesterday<br>
-Today is better<br>
+I coded today <br>
+I compare to yesterday <br>
+Today is better <br>
