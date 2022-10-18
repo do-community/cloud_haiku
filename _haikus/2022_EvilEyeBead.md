@@ -4,8 +4,8 @@ title: Evil Eye bead
 author: Anushka Girish
 ---
 
-I have a blue bead
-It's supposed to ward all bad
-Why am I still sad
+All I want is a
+T-shirt from hacktober fest
+It's not too much right
 
 
