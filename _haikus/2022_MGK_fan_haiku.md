@@ -6,5 +6,5 @@ author: Allesandria
 
 
 Colson Baker rocks
-His bestie is Pete Davidson
+His bestie's Pete Davidson
 I guess Pete rocks too
