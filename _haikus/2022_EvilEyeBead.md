@@ -3,9 +3,8 @@ layout: haiku
 title: Evil Eye bead
 author: Anushka Girish
 ---
-
-All I want is a
-T-shirt from hacktober fest
-It's not too much right
+I have a blue bead
+It's supposed to ward all bad
+why am I still sad
 
 
