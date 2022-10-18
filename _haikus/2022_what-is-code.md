@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: What is Code
-author: krishjp
+author: Krish Patel
 ---
 
 What are lines of code.
