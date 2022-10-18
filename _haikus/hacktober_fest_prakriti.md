@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title: Autumn night
-author: Prakriti Chatterjee
+title: Octopus Cloud
+author: Sammy
 ---
 
 On a withered branch<br>
