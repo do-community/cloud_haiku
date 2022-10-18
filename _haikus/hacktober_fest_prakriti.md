@@ -5,5 +5,5 @@ author: Prakriti Chatterjee
 ---
 
 On a withered branch<br>
-A crow has alighted;<br>
-Nightfall in autumn.<br>
+A crow has alighted<br>
+Nightfall in autumn<br>
