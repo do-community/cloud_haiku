@@ -4,6 +4,6 @@ title: hactoberfest firstcontribution
 author: Shivam Singh Dangi
 ---
 
-What's up guys? <br>
-I thinks i typed correctly <br>
-hactoberfest firstcontribution <br>
+Illuminati<br>
+I’ll see you in the next life.<br>
+Here we go again.<br>
