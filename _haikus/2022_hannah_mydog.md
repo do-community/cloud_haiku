@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: 2021 Bit Revolution
-author: AAchintha97
+title: My dog
+author: Hannah
 ---
 
-Bit Revolution <br>
-Ready to rock with bits' world <br>
-a better version <br>
+Norman is my friend<br>
+My best best friend forever<br>
+I miss him so much<br>
