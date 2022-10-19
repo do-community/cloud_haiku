@@ -2,6 +2,7 @@
 layout: haiku
 title: Server down
 author: Wiem Chouchane
+test: false
 ---
 
 Don't be down, server.<br>
