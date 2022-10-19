@@ -2,6 +2,7 @@
 layout: haiku
 title: Junior & Senior Devs
 author: Aaron Krauss
+test: false
 ---
 
 Junior dev struggles<br>
