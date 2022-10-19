@@ -4,7 +4,7 @@ title: Hacktoberfest Assignment
 author: Christopher Buirski
 ---
 
-What must I do?
+What work must I do?
 
 It must be this assignment
 
