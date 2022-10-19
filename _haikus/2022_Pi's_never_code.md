@@ -1,11 +1,9 @@
 ---
 layout: haiku
 title: Pi's Never Code
-author: Piyush J
+author: pj
 ---
 
-What am I doing?
-
-I am a couch potato
-
-I don't ever code
+What am I doing<br>
+I am a couch potato lo<br>
+I don't ever code<br>

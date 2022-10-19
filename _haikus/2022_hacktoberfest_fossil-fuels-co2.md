@@ -4,6 +4,6 @@ title: Bust fossil fuels & co2
 author: FABESTAH
 ---
 
-just green powered clouds, <br>
-bust fossil fuels, CO2, <br>
-thus our earth keeps cool
+just gree powered clouds<br>
+bust fossil fuels, CO2 woo <br>
+thus our earth keeps cool<br>
