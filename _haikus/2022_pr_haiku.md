@@ -4,6 +4,6 @@ title: PR Haiku
 author: Lalit Pokhrel
 ---
 
-Pile of request in line <br>
-Credentials pushed on github repository branch<br>
-Sad, it gets merged<br>
+Pile of pull request<br>
+Credentials up in server<br>
+why was it merged there<br>
