@@ -2,6 +2,7 @@
 layout: haiku
 title:  Beauties of October
 author: afonsocarlos
+test: false
 ---
 
 Yet another year <br>
