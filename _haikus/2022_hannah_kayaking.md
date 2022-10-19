@@ -4,6 +4,6 @@ title: Kayaking is fun
 author: Hannah
 ---
 
-Kayaking is fun<br>
+Kayaking is so fun<br>
 water is moving so fast<br>
 I sing in the kayake<br>
