@@ -4,6 +4,6 @@ title:  Hactoberfest2022
 author: Abhishek 
 ---
 
-Stuck on code issue <br>
-The Computer misconstrue -- <br>
-The stuck on issue <br>
+Stuck on code too <br>
+The Computer mismatched <br>
+The stuck on  <br>
