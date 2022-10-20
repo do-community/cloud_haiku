@@ -2,6 +2,7 @@
 layout: haiku
 title: Bust fossil fuels & co2
 author: FABESTAH
+test: false
 ---
 
 just green powered clouds, <br>
