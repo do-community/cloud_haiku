@@ -4,9 +4,8 @@ title: Over the Wintry
 author: Mukul Bhardwaj
 ---
 
-Over the wintry 
+Now it reveals its hidden side
 <br>
-Forest, winds howl in rage 
+and now the other—thus it falls,
 <br>
-With no leaves to blow. 
-<br>
+an autumn leaf.
