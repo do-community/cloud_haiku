@@ -3,6 +3,6 @@ layout: haiku
 title: 2021 Crashing Waves
 author: Vaibhavgupta05
 ---
-A world of dew,<br>
-And within every dewdrop<br>
-A world of struggle<br>
+Like crunchy cornflakes<br>
+Gold leaves rustle underfoot<br>
+Beauty in decay.<br>
