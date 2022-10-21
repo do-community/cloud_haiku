@@ -2,6 +2,7 @@
 layout: haiku
 title: Fire
 author: Robby
+test: false
 ---
 
 Pictures of fire<br>

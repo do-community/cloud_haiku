@@ -4,7 +4,7 @@
   "description": "Haiku structure testing for cloud_haiku repo",
   "main": "test.js",
   "scripts": {
-    "test": "tap test.js -R min --no-coverage-report"
+    "test": "tap test.js -R min --no-coverage-report --timeout=300"
   },
   "repository": {
     "type": "git",
