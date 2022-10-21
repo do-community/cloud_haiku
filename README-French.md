@@ -59,9 +59,9 @@ Les haïkus sont une forme traditionnelle de poésie japonaise. Ils sont compos�
 Considérons un exemple de haïku de ce référentiel :
 
 ```
-Distributed cloud  <br>
-Like the octopuses' minds  <br>
-Across the network  <br>
+Un vieil étang <br>
+Une grenouille qui plonge, <br>
+Le bruit de l'eau.  <br>
 ```
 
 Ci-dessus, nous voyons que le haïku est composé de 3 lignes.
@@ -69,9 +69,9 @@ Ci-dessus, nous voyons que le haïku est composé de 3 lignes.
 La première ligne a une longueur de 5 syllabes, la deuxième ligne a une longueur de 7 syllabes et la troisième ligne a une longueur de 5 syllabes.
 
 ```
-Dis-trib-ut-ed cloud  # 5 syllables  
-Like the oc-to-pus-es' minds  # 7 syllables  
-A-cross the net-work  # 5 syllables  
+Un-vi-eil é-tang  # 5 syllables  
+Un-e gre-nouille qui plon-ge  # 7 syllables  
+Le bruit de l'-eau  # 5 syllables  
 ```
 
 Pour vérifier que vous utilisez le bon nombre de syllabes, vous pouvez utiliser un outil tel que [http://www.haikusyllablecounter.com](http://www.haikusyllablecounter.com).
@@ -85,13 +85,13 @@ Pour garantir des sauts de ligne appropriés, veuillez utiliser les sauts de lig
 ```markdown
 ---
 layout: haiku
-title: Octopus Cloud
+title: La grenouille
 author: Sammy
 ---
 
-Distributed cloud<br>
-Like the octopuses' minds<br>
-Across the network<br>
+Un vieil étang <br>
+Une grenouille qui plonge, <br>
+Le bruit de l'eau.  <br>
 ```
 
 ### Un exemple
