@@ -9,6 +9,6 @@ author: Kusal Madura yapa
 <title>my document </title>
 </head>
 <body>
-<h1> My Heading </h1>
+<h1>  Heading </h1>
 </body>
 </html>
