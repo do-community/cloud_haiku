@@ -6,6 +6,6 @@ author: Kusal Madura yapa
 
 <html>
 <head>
-<title></title>
+<title>my document </title>
 </head>
 </html>
