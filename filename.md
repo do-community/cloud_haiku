@@ -5,7 +5,7 @@ author: Sammy
 ---
 
 Distributed cloud <br>
-Like the octopuses' minjds <br>
+Like the octopuses' minds <br>
 Across the network <br>
 
 
