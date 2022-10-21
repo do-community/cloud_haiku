@@ -8,4 +8,6 @@ author: Kusal Madura yapa
 <head>
 <title>my document </title>
 </head>
+<body>
+</body>
 </html>
