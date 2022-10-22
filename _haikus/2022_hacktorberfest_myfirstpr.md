@@ -2,6 +2,7 @@
 layout: haiku
 title: My First PR
 author: Vedangi Bhujang
+test: false
 ---
 
 It's my first PR.<br>
