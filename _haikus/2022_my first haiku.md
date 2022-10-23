@@ -5,5 +5,5 @@ author: subhagata
 ---
 
 It's my first haiku
-I don't even know what to write
+I do not know what to write
 I am still thinking
