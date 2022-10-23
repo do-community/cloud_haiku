@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: My First Haiku
+title: Boring_homework
 author: Roshan Ladha
 ---
 I hate homework<br>
