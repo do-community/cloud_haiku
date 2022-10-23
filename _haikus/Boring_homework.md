@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Homework
+title: Boring_homework
 author: Roshan Ladha
 ---
 
