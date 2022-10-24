@@ -2,6 +2,7 @@
 layout: haiku
 title: Hacktoberfest Noob
 author: Andrew Rea
+test: false
 ---
 
 Hacktoberfest noob

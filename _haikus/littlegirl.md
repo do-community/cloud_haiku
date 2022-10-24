@@ -1,7 +1,7 @@
 ---
-layout:haiku
-title:littlegirl
-author:bhagya
+layout: haiku
+title: littlegirl
+author: bhagya
 ---
 
 one cute little friend <br>

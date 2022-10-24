@@ -2,6 +2,7 @@
 layout: haiku
 title: dh2022
 author: Tippy
+test: false
 ---
 
 Digital humans<br>
