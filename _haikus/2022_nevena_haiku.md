@@ -6,4 +6,4 @@ author: Nevena Verbic
 
 Programming language.<br>
 Can we code a better world<br>
-together, in the clouds?<br>
+together, in clouds?<br>
