@@ -5,5 +5,5 @@ author: Yasmin
 ---
 
 JavaScript frameworks<br>
-Once invested in one<br>
-It's hard to leave the cult<br>
+Once you invested in one<br>
+It's hard to leave it<br>
