@@ -2,6 +2,7 @@
 layout: haiku
 title: Spooky Season
 author: ZoCodes
+test: false
 ---
 
 Pumpkin spice latte
