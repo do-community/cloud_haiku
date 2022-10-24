@@ -2,6 +2,7 @@
 layout: haiku
 title: In the clouds
 author: Kolja
+test: false
 ---
 
 Kubernetes pods<br>
