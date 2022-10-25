@@ -6,4 +6,4 @@ author: klydra
 
 A lovely morning
 the cat purrs, it wakes up
-great things up ahead
+good things up ahead
