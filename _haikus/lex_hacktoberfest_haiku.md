@@ -1,5 +1,6 @@
+---
 layout: haiku
-title: infrastructure  
+title: infrastructure
 author: lexx
 ---
 

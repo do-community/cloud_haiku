@@ -2,6 +2,7 @@
 layout: haiku
 title: A Dev In Kenya
 author: ChadGichuki
+test: false
 ---
 Cloud Infrastructure<br>
 Allows a Dev in Kenya<br>

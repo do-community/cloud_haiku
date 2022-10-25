@@ -2,6 +2,7 @@
 layout: haiku
 title: mathematics
 author: Faeka Ansari
+test: false
 ---
 
 The mathematician
