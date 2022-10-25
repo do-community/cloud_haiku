@@ -4,6 +4,6 @@ title: October 20 Massacre
 author: Favour Akpasi
 ---
 
-don't ever Forget!
-peaceful citizens were killed,
-who gave the order?
+don't ever Forget!<br>
+peaceful citizens were killed,<br>
+who gave the order?<br>
