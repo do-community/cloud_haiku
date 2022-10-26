@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Azure
-author: Belle 
+title: Microsoft Azure
+author: Kiran Panjwani
 ---
 
-Microsoft Azure<br>
-Isn't Azure a color?<br>
-The color of sky<br>
+Azure Cloud structure<br>
+Global network of servers<br>
+Online accessing<br>
