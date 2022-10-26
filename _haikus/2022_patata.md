@@ -1,9 +1,8 @@
 ---
 layout: haiku
-title: whag patata
-author: chafaa
-test: false
+title: really hard
+author: chafaa ouchaou
 ---
-eat patata yes<br>
-yoo how are you broderhood<br>
-good good i'm goog yes<br>
+This code is working
+Though I don't know what went right
+I just know it works
