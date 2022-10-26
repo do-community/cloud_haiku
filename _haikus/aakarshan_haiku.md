@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Aakarshan Haiku
-author:aakarshank
+author: aakarshank
 ---
 
 Aakarshan Kumar.
