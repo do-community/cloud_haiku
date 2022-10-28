@@ -5,5 +5,5 @@ author: Tushal
 ---
 
 I like to write code<br>
-I also like open source<br>
-I do contribute<br>
+But sometimes it may look hard<br>
+I don't know why so<br>
