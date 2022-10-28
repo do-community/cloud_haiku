@@ -1,0 +1,10 @@
+---
+layout: haiku
+title:2022 first haiku
+author:tilak-rana
+---
+
+
+i write first poem  <br>
+started with love and thunder  <br>
+this is a blunder  <br>
