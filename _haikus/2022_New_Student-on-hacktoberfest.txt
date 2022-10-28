@@ -1,0 +1,10 @@
+---
+layout: haiku
+title:2022 New Student on hacktoberfest
+author:tilak-rana
+---
+
+
+Newly student on hacktoberfest  <br>
+gain an understanding of open source  <br>
+i hope i shall succeed this year  <br>
