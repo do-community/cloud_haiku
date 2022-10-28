@@ -4,6 +4,6 @@ title: code & Life
 author: Tushal
 ---
 
-Coding can be tough<br>
-but so is living your life<br>
-So live and write code<br>
+I like to write code<br>
+I also like open source<br>
+I do contribute<br>
