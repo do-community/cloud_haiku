@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: My Code Doesn't Work
+title: Code Doesn't Work
 author: Anis Jradah
 ---
 
-What is going on?
-I wrote it correctly
-My code does not work
+What is going on?<br>
+Code does not execute<br>
+I typed it correctly<br>
