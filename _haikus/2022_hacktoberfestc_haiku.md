@@ -4,6 +4,6 @@ title: OpenSource
 author: Rajput Usman
 ---
 
-Opensource Community<br>
-Is the best Community<br>
-Hacktoberfest is an event of an Opensource Community<br>
+Opensource is the<br>
+greatest Community for<br>
+the dev's of the world.<br>
