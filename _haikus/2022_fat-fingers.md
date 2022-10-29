@@ -1,4 +1,5 @@
-out: haiku
+---
+layout: haiku
 title: Fat Fingers
 author: Florian Hunecke
 ---
