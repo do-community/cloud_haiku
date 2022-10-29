@@ -1,0 +1,9 @@
+---
+layout: haiku
+title: 2022 first haiku
+author: priyanshu
+---
+
+i write first poem<br>
+started with love and thunder<br>
+which is a  blunder<br>
