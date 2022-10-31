@@ -2,6 +2,7 @@
 layout: haiku
 title: 早上好 
 author: Pree
+test: false
 ---
 
 宇宙说早安 <br>
