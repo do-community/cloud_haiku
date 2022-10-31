@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title:
-author:
+title: Go Golang 
+author: Hasir Ahmad
 ---
 
 Golang is better
