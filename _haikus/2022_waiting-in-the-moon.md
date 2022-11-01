@@ -5,5 +5,6 @@ author: Segun Ajibade
 ---
 
 Waiting in the moon,
-The glows shines quietly,
+It glows and shines quietly,
+
 Even rats sense death.
