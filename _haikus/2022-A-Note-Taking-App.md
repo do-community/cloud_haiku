@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title: A Note-Taking App
-author: Josh812
+title: "A note-taking app"
+author: josh812
 ---
 
 I hit a wall once,
