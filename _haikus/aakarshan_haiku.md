@@ -1,6 +1,6 @@
 ---
 layout:haiku
-title:Aakarshan Haiku
+title: Aakarshan Haiku
 author: aakarshank
 ---
 
