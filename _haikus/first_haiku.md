@@ -1,9 +1,8 @@
 ---
 layout: haiku
-title: newthings
-author: Prioma
+title: First Haiku 
+author: gs1220
 ---
-
-trying some new things<br>
-as growing and updating<br>
-is a part of life<br>
+Its my first haiku<br>
+I don't know what to write to<br>
+would you like add to?<br>
