@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: The Cloud
-author: Shannon Nix
+title: The cloud
+author: SheF
 ---
 
-The cloud is fluffy<br>
-yet you can fall to the floor<br>
-be strong and steady<br>
+Cloud hosted service <br>
+Server is down, maintenance <br>
+For now, hope is lost <br>
