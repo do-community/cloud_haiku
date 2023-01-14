@@ -10,4 +10,4 @@ Across the network <br>
 Exemplo de criação de arquivo via teminal para o repo git local Cloud_hiku <br>
 ___
 
-Editando o arquivo no nano.
+Editanto o arquivo no nano <br>
