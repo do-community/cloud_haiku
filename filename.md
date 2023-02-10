@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Octopus Cloud
-author: CharlyMech
+author: Sammy
 ---
 
 Distributed cloud <br>
