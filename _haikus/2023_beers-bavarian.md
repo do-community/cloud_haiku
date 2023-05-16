@@ -5,5 +5,5 @@ author: DylanP97
 ---
 
 Golden brews divine,
-Bavarian beers, love in sips,
+Bavarian beers, love sips,
 Heart hops with each sip.
