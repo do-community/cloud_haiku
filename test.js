@@ -1,6 +1,6 @@
 require('tap').mochaGlobals()
-import assert from 'assert'; 
-import { default as remark } from 'remark'; 
+const assert = require('assert')
+const remark = require('remark')
 const frontmatter = require('remark-frontmatter')
 const extract = require('remark-extract-frontmatter')
 const yaml = require('yaml').parse
