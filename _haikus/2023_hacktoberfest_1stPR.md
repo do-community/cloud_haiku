@@ -1,7 +1,7 @@
 ---
 layout : haiku
-title: 2021 HacktoberFest
-author : Abdul Maajid
+title: 2023 HacktoberFest
+author : Mohammed Huzaif Ahmed
 ---
 
 I love to code<br>
