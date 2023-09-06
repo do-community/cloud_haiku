@@ -4,6 +4,6 @@ title: 2023 HacktoberFest
 author : Mohammed Huzaif Ahmed
 ---
 
-I love to code<br>
-and i will keep on coding<br>
-i will contribute to opensource <br>
+Autumn leaves now fall <br>
+Whispering secrets of time <br>
+Nature's beauty calls <br>
