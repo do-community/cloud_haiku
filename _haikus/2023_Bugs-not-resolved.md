@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title:Bugs not resolved
-author:Ankit Jaipuriar
+title: Bugs not resolved
+author: Ankit Jaipuriar
 ---
 
 Whole day wasted, bugs,<br>
