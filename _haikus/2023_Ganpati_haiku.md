@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: Harry Potter
+title: Lord Ganpati
 author: Pratik Patil
 ---
 
