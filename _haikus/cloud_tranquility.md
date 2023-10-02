@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: 2023_cloud_tranquility
+title: cloud_tranquility
 author: Dhineshkumar 
 ---
 
