@@ -4,6 +4,6 @@ title: New Here
 author: ghanneeyyah
 ---
 
-my first time here<br>
-about to break boundries<br>
-be ready for me <br> 
+it's my first time here<br>
+about to break boundries tho<br>
+it's over for y'all<br> 
