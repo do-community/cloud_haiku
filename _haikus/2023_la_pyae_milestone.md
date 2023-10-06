@@ -6,4 +6,4 @@ author: La Pyae
 
 Open new chapter <br>
 Don't act like a big drama <br>
-Focus dream deeper <br>
+Focus dreams deeper <br>
