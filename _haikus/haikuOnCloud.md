@@ -4,6 +4,6 @@ title: My dear Cloud
 author: Chetan Yadav
 ---
 
-I donot exist <br>
-this world is too cruel, right <br>
-so i hold cloud tight <br>
+under lilac sky <br>
+red marijuana eyes <br>
+see the blue future <br>
