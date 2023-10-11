@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Octopus Cloud
-author: Sammy
+title: Data Showers
+author: RossaMania
 ---
 
 Mighty data cloud <br>
 Bulbous with information <br>
-Storming on us all <br> //5
+Storming on us all <br>
