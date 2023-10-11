@@ -5,5 +5,5 @@ author: Akhil Soni
 ---
 
 Stuck while coding and <br>
-Get your programmer's duck to discuss problems<br>
+programming. Get your duck to<br>
 Get a clean solved code <br>
