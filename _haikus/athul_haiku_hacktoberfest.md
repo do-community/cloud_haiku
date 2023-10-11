@@ -1,8 +1,8 @@
 ---
 layout: haiku
-title: 2023 Hackoberfest
+title: Sea
 author: Athul Bhandary
 ---
-Open source code<br>
-Contributions big or small<br>
-Community grows<br>
+Moonlight on the sea<br>
+Waves embrace the silent shore<br>
+Night's serenity<br>
