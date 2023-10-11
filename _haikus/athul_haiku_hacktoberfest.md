@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: Sea
-author: Athul Bhandary
+author: Athul D Bhandary
 ---
 Moonlight on the sea<br>
 Waves embrace the silent shore<br>
