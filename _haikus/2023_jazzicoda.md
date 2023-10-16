@@ -5,5 +5,5 @@ author: jazzicoda
 ---
 
 Code floats in the cloud,<br>
-Web's canvas, vast and dynamic,<br>
+Web's canvas, vast, dynamic,<br>
 Dev dreams take flight high. <br>
