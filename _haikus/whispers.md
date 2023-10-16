@@ -1,9 +1,9 @@
 ---
 layout: haiku
 title: Whispers
-author: ragozzine
+author: laylark
 ---
 
-In the digital sky,
+In the cloudy sky,
 Whispers of code softly sigh,
 Cloud's secrets can't lie.
