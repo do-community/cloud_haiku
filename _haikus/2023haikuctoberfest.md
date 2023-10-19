@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title: Octopus Cloud
-author: Sammy
+title: Sun	
+author: len-alt
 ---
 
 Reinvented lies<br>
