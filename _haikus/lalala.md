@@ -1,9 +1,9 @@
 ---
 layout: haiku
 title: lalaTESTE
-author: lana
+author: lana_rodolpho
 ---
 
-teste teste vai<br>
-vai ter que dar certo la<br>
-vamos la la la<br>
+One vampire bites me<br>
+Eternity is desired<br>
+For the one bitten<br>
