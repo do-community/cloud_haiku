@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: Topicos
+title: Topics
 author: Ricardo Ogando
 ---
 
-sou muito legal né<br>
-com tópicos de e-science<br>
-mas sem camisa<br>
+this is very cool<br>
+teach electronic science<br>
+hug tree shirtless though<br>
