@@ -6,4 +6,4 @@ author: Kent Coleman
 
 Bronn, loyal and true,
 In your eyes, my love shines through,
-My heart belongs to you.
+My heart is for you.
