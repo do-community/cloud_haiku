@@ -5,5 +5,5 @@ author: Camila Franco
 ---
 
 In vast galaxies<br>
-Infinite mysteries<br>
+Find infinite mysteries<br>
 Cosmic tapestries<br>
