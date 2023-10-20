@@ -4,6 +4,6 @@ title: lalaTESTE
 author: lana_rodolpho
 ---
 
-One vampire bites me<br>
+Vampire bites<br>
 Eternity is desired<br>
-For the one bitten<br>
+The one bitten<br>
