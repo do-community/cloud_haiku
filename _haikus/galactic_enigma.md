@@ -8,6 +8,6 @@ author: Camila Franco
 
 ---
 
-In vast galaxies<br>
+Amid vast galaxies<br>
 Find infinite mysteries<br>
 Cosmic tapestries<br>
