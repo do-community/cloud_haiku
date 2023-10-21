@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: first_haiku
-author:VR
+author: VR
 ---
 
 
