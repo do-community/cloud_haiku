@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: I can do it !!
+title: I can do it
 author: Sabih
 ---
 
-Do whatever you want <br>
-just focus<br>
-, contribute and be consistent on your goals  <br>
+Silent moon above, <br>
+Whispers in the night's embrace, <br>
+Dreams in soft moonlight. <br>
