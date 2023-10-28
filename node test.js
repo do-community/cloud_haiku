@@ -1,6 +1,6 @@
 require('tap').mochaGlobals()
 const assert = require('assert')
-const remark = require('remark')
+import remark from 'remark'
 const frontmatter = require('remark-frontmatter')
 const extract = require('remark-extract-frontmatter')
 const yaml = require('yaml').parse
@@ -25,19 +25,19 @@ files.forEach(async (file) => {
   }
 })
 
-function processMarkdown(filename) {
+async function processMarkdown(filename) {
   return new Promise((resolve, reject) => {
     remark()
-      .use(frontmatter)
-      .use(extract, { yaml: yaml })
-      .use(strip)
-      .process(vfile.readSync(filename), (err, file) => {
-        if (err) {
-          reject(err)
-        } else {
-          resolve([file.toString(), file.data])
-        }
-      })
+        .use(frontmatter)
+        .use(extract, { yaml: yaml })
+        .use(strip)
+        .process(vfile.readSync(filename), (err, file) => {
+          if (err) {
+            reject(err)
+          } else {
+            resolve([file.toString(), file.data])
+          }
+        })
   })
 }
 
@@ -50,9 +50,9 @@ function validateHaiku(filename, lines, meta) {
     describe('file metadata', () => {
       it("should have layout equal to 'haiku'", () => {
         assert.equal(
-          meta.layout,
-          'haiku',
-          "layout metadata should equal 'haiku'"
+            meta.layout,
+            'haiku',
+            "layout metadata should equal 'haiku'"
         )
       })
 

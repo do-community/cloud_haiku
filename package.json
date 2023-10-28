@@ -2,9 +2,9 @@
   "name": "cloud_haiku",
   "version": "1.0.0",
   "description": "Haiku structure testing for cloud_haiku repo",
-  "main": "test.js",
+  "main": "node test.js",
   "scripts": {
-    "test": "tap test.js -R min --no-coverage-report --timeout=300"
+    "test": "tap node test.js -R min --no-coverage-report --timeout=300"
   },
   "repository": {
     "type": "git",
