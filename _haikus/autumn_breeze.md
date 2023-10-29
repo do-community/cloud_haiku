@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: autumn breeze
+title: autumn_breeze
 author: Sanket Nikam
 ---
 
