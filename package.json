@@ -17,7 +17,6 @@
     },
     "homepage": "https://github.com/do-community/cloud_haiku#readme",
     "dependencies": {
-        "append-transform": "^latest",
         "node-fetch": "^2.6.1",
         "remark": "^14.0.2",
         "remark-extract-frontmatter": "^2.0.0",
