@@ -2,7 +2,7 @@
 layout: haiku
 title: autumn_breeze, a Haiku
 author: Sanket Nikam
-test: false
+test: true
 ---
 
 Golden leaves whisper<br>
