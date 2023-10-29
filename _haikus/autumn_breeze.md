@@ -1,8 +1,7 @@
 ---
 layout: haiku
-title: autumn_breeze, a Haiku
+title: Autumn Breeze
 author: Sanket Nikam
-test: true
 ---
 
 Golden leaves whisper<br>
