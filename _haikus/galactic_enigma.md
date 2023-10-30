@@ -1,11 +1,7 @@
 ---
-
----
----
 layout: haiku
 title: Galactic Enigma
 author: Camila Franco
-
 ---
 
 In vast galaxies<br>
