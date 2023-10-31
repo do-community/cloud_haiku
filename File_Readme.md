@@ -1,3 +1,12 @@
 ### Submitted by saneep-pp
 
-Here is the test of my first pull request to  opensource software.
+---
+layout: haiku
+title: Octopus Cloud
+author: saneep-pp
+---
+
+Distributed cloud<br>
+Like the octopuses' minds<br>
+Across the network<br>
+
