@@ -1,9 +1,9 @@
 ---
 layout: haiku
-title: crazy_coder
-author: gtsh
+title: Crazy Coder
+author: Sammy
 ---
 
-hi Yellorukum<br>
-vanakamga naan ungal  <br>
-hari g t s <br>
+Distributed cloud<br>
+Like the octopuses' minds<br>
+Across the network<br>
