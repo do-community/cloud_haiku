@@ -1,6 +1,6 @@
 ---
 layout: haiku
-title: trial
+title: crazy coder
 author: gtsh
 ---
 I am starting with <br>
