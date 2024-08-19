@@ -1,8 +1,9 @@
 ---
 layout: haiku
 title: crazy_coder
-author: gtsh
+author: Sammy
 ---
-I am starting with <br>
-creating new file <br>
-Yellorukum vanakam!<br>
+
+hi Yellorukum<br>
+vanakamga naan ungal  <br>
+hari g t s <br>
