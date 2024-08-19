@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: crazy_coder
-author: Sammy
+author: gtsh
 ---
 
 hi Yellorukum<br>
