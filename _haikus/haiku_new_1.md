@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title: Octopus Cloud
-author: Sammy
+title: first_haiku
+author: VR
 ---
 
 spirited free bird<br>
