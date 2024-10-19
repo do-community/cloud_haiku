@@ -1,7 +1,7 @@
 ---
 layout: haiku
-title: Participation in Hacktoberfest
-author: Abdul Waheed
+title: Participation in Hacktoberfest2024
+author: Teja Chidapana
 ---
 
 life’s little, our heads <br>
@@ -10,4 +10,4 @@ this chance. Be of use. <br>
 Life id all about learning <br>
 Learning from others <br>
 Learning from the incidents <br>
-Learning from the mistaked <br>
+Learning from the mistaked <brgit >

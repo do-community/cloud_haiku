@@ -1,7 +1,7 @@
 ---
 layout: haiku
 title: A Dev In Kenya
-author: ChadGichuki
+author: Teja Chidapana
 test: false
 ---
 Cloud Infrastructure<br>
