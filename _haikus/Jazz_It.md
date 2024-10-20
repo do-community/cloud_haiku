@@ -4,6 +4,6 @@ title: Jazz It
 author: Vincent Jang
 ---
 
-Sometime go to jazz bar<br> 
-Listen carefully a variety and improvisation<br>
-Cuz Open source is same as jazz<br>
+Go to a Jazz Bar<br> 
+listen to instruments sound<br>
+Cloud is same as jazz<br>
