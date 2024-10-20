@@ -1,6 +1,4 @@
-# Welcome to Cloud Haiku
-
-[Español](README-Spanish.md) | [Français](README-French.md) | [Italiano](README-Italian.md) | [Português](README-Portuguese.md)
+# Cloud Haiku에 어서오세요!
 
 Cloud Haiku 는 클라우드 및 클라우드 기술에 대한 하이쿠(짧은 시) 를 수집하고 웹사이트에 게시하는 오픈소스 저장소입니다. 
 
@@ -55,7 +53,7 @@ author:
 여러분의 하이쿠는 재미있고, 쓸 때 도전적이어야 합니다. 다음 섹션에 있는 하이쿠의 시적 형식을 맞추어 작성하여야 합니다.
 
 ### Haiku Format
-럼
+
 하이쿠는 세 줄로 구성되어 있으며 총 17 음절로 이루어진 전통적인 일본 시 형식입니다. 이 시는 세 줄에 걸쳐 각각 5-7-5 음절 형식을 따릅니다.
 
 *음절* 일반적으로 모음을 포함하는 말소리의 조직 단위입니다. 예를 들어, **컴퓨터** 라는 단어는 **컴** - **퓨** - **터** 의 3음절로 이루어져 있습니다.
