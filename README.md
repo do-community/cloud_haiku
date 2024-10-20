@@ -1,6 +1,6 @@
 # Welcome to Cloud Haiku
 
-[Español](README-Spanish.md) | [Français](README-French.md) | [Italiano](README-Italian.md) | [Português](README-Portuguese.md)
+[Español](README-Spanish.md) | [Français](README-French.md) | [Italiano](README-Italian.md) | [Português](README-Portuguese.md) |  [한국어](README-Korean.md)
 
 Cloud Haiku is an open-source repository that collects haikus about the cloud and cloud technology and publishes these haikus to its website.
 
